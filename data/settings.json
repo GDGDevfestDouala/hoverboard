@@ -1,19 +1,19 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
-    "blog": "https://medium.com/gdg-lviv",
+    "name": "GDG Douala",
+    "twitter": "gdgdouala",
+    "blog": "https://medium.com/gdg-douala",
     "url": "http://lviv.gdg.org.ua/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2019-12-07T09:00:00+03:00",
+  "endDate": "2019-12-07T17:00:00+03:00",
   "webapp": {
     "shortName": "DevFest",
     "themeColor": "#673AB7",
     "backgroundColor": "#673AB7"
   },
   "dateFormat": {
-    "locale": "en-US"
+    "locale": "fr-FR"
   },
   "hashtag": "DevFest",
   "disabledSchedule": false,
@@ -21,32 +21,12 @@
     {
       "route": "home",
       "permalink": "/",
-      "label": "Home"
-    },
-    {
-      "route": "speakers",
-      "permalink": "/speakers/",
-      "label": "Speakers"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/",
-      "label": "Schedule"
-    },
-    {
-      "route": "team",
-      "permalink": "/team/",
-      "label": "Team"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
+      "label": "Accueil"
     }
   ],
   "heroSettings": {
     "home": {
-      "description": "Join the commuity, learn new things!",
+      "description": "Assistez gratuitement au plus grand festival de #devs en Afrique centrale!",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -112,21 +92,21 @@
     }
   },
   "location": {
-    "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "label": "Position",
+    "name": "Centre de formation professionnelle de l'excellence",
+    "city": "Douala",
+    "short": "Douala, Cameroun",
+    "address": "P14, Ndokoti, Derrière le collège Bénédicte",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 5
+      "latitude": 4.045507,
+      "longitude": 9.7314302,
+      "zoom": 14
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 4.045,
+      "longitude": 9.73
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "Le CFPE Douala est situé du coté de Ndokoti, avant le carrefour 'Bp Cité' derrière le collège Bénédicte."
   },
   "mediaQueries": {
     "xs": {
@@ -217,7 +197,7 @@
       "itemsCount": 6
     },
     "tickets": {
-      "itemsCount": 5
+      "itemsCount": 1
     }
   }
 }

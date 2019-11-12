@@ -1,43 +1,43 @@
 {
-  "title": "GDG DevFest Season 2018",
-  "description": "Join the commuity, learn new things!",
+  "title": "GDG DevFest Douala 2019",
+  "description": "Assistez gratuitement au plus grand festival de devs au Cameroun!",
   "image": "images/social-share.jpg",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev, douala, gdgdouala, gdgdla",
+  "dates": "07 Décembre 2019",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
-  "share": "Share",
-  "followOur": "Follow our",
-  "followUs": "Follow us",
-  "emailUs": "Email us",
+  "share": "Partager",
+  "followOur": "Suivre nos",
+  "followUs": "Suivez-nous",
+  "emailUs": "Écrivez-nous",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
-  "signIn": "Sign in",
-  "signOut": "Sign out",
-  "viewHighlights": "View Highlights",
-  "offlineMessage": "You can still work offline.",
-  "cachingComplete": "Caching complete! Future visits will work offline.",
-  "newVersionAvailable": "A new version of this app is available.",
-  "refresh": "Refresh",
+  "buyTicket": "Reserver sa place",
+  "signIn": "Se connecter",
+  "signOut": "Se Déconnecter",
+  "viewHighlights": "Vue d'ensemble",
+  "offlineMessage": "Vous pouvez continuer en offline.",
+  "cachingComplete": "Ce site est maintenant disponible offline.",
+  "newVersionAvailable": "Une nouvelle version du site est disponible.",
+  "refresh": "Rafraichir",
   "position": "Position",
-  "country": "Country",
-  "time": "Time",
+  "country": "Pays",
+  "time": "Heure",
   "faq": "/data/faq.md",
   "coc": "/data/coc.md",
   "footer": {
     "blog": "Blog"
   },
   "mySchedule": {
-    "title": "My Schedule",
-    "browseSession": "Browse sessions"
+    "title": "Mon Programme",
+    "browseSession": "Voir les sessions"
   },
   "footerRelBlock": [
     {
-      "title": "About",
+      "title": "Apropos",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "GDG Douala",
+          "url": "https://meetup.com/gdg-douala",
           "newTab": true
         },
         {
@@ -51,39 +51,24 @@
           "newTab": true
         },
         {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "name": "Saluez l'équipe!",
+          "url": "https://www.meetup.com/fr-FR/GDG-Douala/members/?op=leaders",
           "newTab": true
         }
       ]
     },
     {
-      "title": "Explore Past DevFests",
+      "title": "Voir le devfest passé",
       "links": [
         {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
+          "name": "Devfest Douala 2017",
+          "url": "https://devfest17.gdgdouala.com/",
           "newTab": true
         }
       ]
     },
     {
-      "title": "Event Resources",
+      "title": "Ressources",
       "links": [
         {
           "name": "Partnership Proposition",
@@ -101,8 +86,8 @@
           "newTab": true
         },
         {
-          "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
+          "name": "Appel à speaker",
+          "url": "http://bit.ly/32lYCM8",
           "newTab": true
         },
         {
@@ -113,8 +98,8 @@
       ]
     }
   ],
-  "subscribeNote": "No spam, only the latest news and updates!",
-  "codeOfConduct": "Code of Conduct",
+  "subscribeNote": "Pas de spam, seulement les nouvelles chaudes!",
+  "codeOfConduct": "Code de conduite",
   "codeOfConductBlock": {
     "organization": "DevFest",
     "form": "https://bit.ly/2RstTJ8",
@@ -124,35 +109,35 @@
     ]
   },
   "aboutBlock": {
-    "title": "About",
+    "title": "Apropos",
     "callToAction": {
       "featuredSessions": {
         "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
-        "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "label": "Devenir speaker",
+        "link": "http://bit.ly/32lYCM8"
       },
       "howItWas": {
         "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
+        "label": "Un aperçu de la session 2017",
         "youtubeId": "TdpbgRgz6eE"
       }
     },
     "statisticsBlock": {
       "attendees": {
-        "label": "Attendees",
-        "number": "900"
+        "label": "Participants",
+        "number": "500+"
       },
       "days": {
-        "label": "Days",
-        "number": "2"
+        "label": "Jour",
+        "number": "01"
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "15"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "4"
+        "number": "01"
       }
     }
   },
@@ -164,15 +149,15 @@
     "save": "Save ${discount}% today"
   },
   "partnersBlock": {
-    "title": "Partners",
-    "button": "Become a partner",
+    "title": "Partenaires",
+    "button": "Devenir partenaire",
     "form": {
-      "title": "Become a partner!",
-      "submitLabel": "Submit",
-      "fullName": "Full Name",
-      "companyName": "Company Name"
+      "title": "Devenir partenaire!",
+      "submitLabel": "Soumettre",
+      "fullName": "Nom complet",
+      "companyName": "Nom de l'entreprise"
     },
-    "toast": "We will contact you soon!"
+    "toast": "Nous vous contactons bientôt!"
   },
   "featuredVideos": {
     "title": "DFUA'16 featured videos",
@@ -193,21 +178,21 @@
     }
   },
   "speakers": {
-    "skills": "Skills",
-    "previousYears": "Years",
-    "previousYear": "Year"
+    "skills": "Compétences",
+    "previousYears": "Années",
+    "previousYear": "Anné"
   },
   "speakersBlock": {
     "title": "Speakers",
     "callToAction": {
-      "label": "View all speakers",
-      "link": "/speakers/"
+      "label": "Devenir speaker",
+      "link": "http://bit.ly/32lYCM8"
     }
   },
   "previousSpeakersBlock": {
-    "title": "Previous speakers",
+    "title": "Anciens speakers",
     "callToAction": {
-      "label": "View all",
+      "label": "Voir tout",
       "link": "/previous-speakers/"
     }
   },
@@ -220,24 +205,24 @@
     }
   },
   "mapBlock": {
-    "title": "Location"
+    "title": "Position"
   },
   "subscribeBlock": {
     "callToAction": {
-      "description": "Get notified about the important conference updates",
-      "label": "Subscribe"
+      "description": "Restez informé sur les mises à jour importantes",
+      "label": "Souscrire"
     },
-    "yourEmail": "Your email",
-    "emailAddress": "Email Address",
-    "firstName": "First Name",
-    "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
-    "emailRequired": "Please enter a valid email address.",
-    "subscribe": "Subscribe",
-    "subscribed": "Subscribed",
-    "close": "Close",
-    "generalError": "An error has occurred. Please, try again later.",
-    "toast": "Successfully subscribed!"
+    "yourEmail": "Votre email",
+    "emailAddress": "Addresse Email",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "formTitle": "Rester informé sur les mises à jour du GDG Devfest Douala 2019",
+    "emailRequired": "Veuillez fournir une addresse email valide.",
+    "subscribe": "Souscrire",
+    "subscribed": "Souscrit",
+    "close": "Fermer",
+    "generalError": "Erreur inattendue, veuillez réessayer plus tard.",
+    "toast": "Votre souscription a réussi!"
   },
   "team": {
     "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
@@ -255,44 +240,44 @@
     "sessions": "Sessions"
   },
   "notifications": {
-    "default": "Enable notifications",
-    "enabled": "We will miss you but you can unsubscribe anytime",
-    "blocked": "We can't send you notifications right now. Please enable notifications in your browser",
-    "subscribe": "Subscribe",
-    "unsubscribe": "Unsubscribe",
+    "default": "Activer notifications",
+    "enabled": "Vous allez nous manquer mais vous pouvez vous désinscrire à tout moment",
+    "blocked": "Veuillez activer les notifications dans votre navigateur pour recevoir nos notifications.",
+    "subscribe": "Souscrire",
+    "unsubscribe": "Se désinscrire",
     "enable": {
-      "label": "Enable",
+      "label": "Activer",
       "link": "https://pushassist.com/knowledgebase/how-to-enable-or-disable-push-notifications-on-chrome-firefox-safari-b/"
     },
     "toast": {
-      "title": "Open"
+      "title": "Ouvrir"
     }
   },
   "aboutOrganizerBlock": {
     "image": "/images/team.jpg",
     "blocks": [
       {
-        "title": "Organizer",
+        "title": "Organisateur",
         "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
         "callToAction": {
-          "label": "Open team page",
+          "label": "Voir l'équipe",
           "link": "/team"
         }
       },
       {
-        "title": "What is a GDG?",
+        "title": "C'est quoi un GDG?",
         "description": "A Google Developer Group is a community of volunteers who create exciting projects and share experiences about Google technologies.",
         "callToAction": {
-          "label": "Read more",
+          "label": "Continuer la lecture",
           "link": "https://developers.google.com/groups/",
           "newTab": true
         }
       },
       {
-        "title": "What is DevFest?",
+        "title": "C'est quoi le DevFest?",
         "description": "DevFests are community-led developer events hosted by Google Developer Groups around the globe.",
         "callToAction": {
-          "label": "Read more",
+          "label": "Continuer la lecture",
           "link": "https://devfest.withgoogle.com/",
           "newTab": true
         }
@@ -300,21 +285,21 @@
     ]
   },
   "signInDialog": {
-    "alreadyHaveAccount": "You already have an account",
-    "alreadyUsed": "You've already used",
+    "alreadyHaveAccount": "Vous êtes déjà inscrit",
+    "alreadyUsed": "Vous avez déjà utilisé",
     "signInToContinue": {
-      "part1": "Sign in with",
-      "part2": "to continue."
+      "part1": "Se connecter avec",
+      "part2": "pour continuer."
     }
   },
   "filters": {
-    "title": "Filters",
-    "results": "Results",
+    "title": "Filtres",
+    "results": "Résultats",
     "tags": "Tags",
-    "complexity": "Complexity",
-    "clear": "Clear all"
+    "complexity": "Complexité",
+    "clear": "Effacer tout"
   },
   "addToHomeScreen": {
-    "cta": "Add to Home Screen"
+    "cta": "Ajouter au bureau"
   }
 }
