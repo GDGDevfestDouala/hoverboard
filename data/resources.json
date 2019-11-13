@@ -112,12 +112,12 @@
     "title": "Apropos",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
+        "description": "Le DevFest (Festival de développeurs) est un événement communautaire de développeurs rassemblant chaque année étudiants, entrepreneurs, professionnels et entreprises autour de la technologie via des conférences, codelabs, débat, ...",
         "label": "Devenir speaker",
         "link": "http://bit.ly/32lYCM8"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
+        "description": "Une occasion unique de d’échanger autour du développement, du Web, Mobile, BigData, Cloud et des  objets connectés",
         "label": "Un aperçu de la session 2017",
         "youtubeId": "TdpbgRgz6eE"
       }
@@ -258,7 +258,7 @@
     "blocks": [
       {
         "title": "Organisateur",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "<a href='http://gdgdouala.com' target='_blank'>GDG Douala</a> ",
         "callToAction": {
           "label": "Voir l'équipe",
           "link": "/team"
