@@ -99,8 +99,8 @@
     "organization": "DevFest",
     "form": "https://bit.ly/2RstTJ8",
     "contacts": [
-      "Organizer Oleh Zasadnyy, [+38 093 486 6460](tel:+380934866460), o.zasadnyy@gdg.org.ua",
-      "Organizer Sofiya Huts, [+38 093 486 1425](tel:+380934861425), s.huts@gdg.org.ua"
+      "Organizer Samuel Victor IYABI, [+237 699 850 665](tel:+237699850665), samvicked@gmail.com",
+      "Organizer Kwonmazou konwo Lorentz, [+237 693 981 232](tel:+237693981232), konwoubuntu@gmail.com"
     ]
   },
   "aboutBlock": {
@@ -112,7 +112,7 @@
         "link": "http://bit.ly/32lYCM8"
       },
       "howItWas": {
-        "description": "Une occasion unique de d’échanger autour du développement, du Web, Mobile, BigData, Cloud et des  objets connectés.",
+        "description": "Une occasion unique d’échanger autour du développement, du Web, Mobile, BigData, Cloud et des  objets connectés.",
         "label": "Un aperçu de la session précédente",
         "link": "https://devfest17.gdgdouala.com"
       }
