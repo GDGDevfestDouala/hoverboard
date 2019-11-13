@@ -1,9 +1,9 @@
 {
-  "title": "GDG DevFest Douala 2019",
-  "description": "Assistez gratuitement au plus grand festival de devs au Cameroun!",
-  "image": "images/social-share.jpg",
+  "title": "GDG Devfest Douala 2019",
+  "description": "Participez au plus grands rassemblement de développeurs de la sous région à Douala le 7 Décembre 2019",
+  "image": "images/social-share.png",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev, douala, gdgdouala, gdgdla",
-  "dates": "07 Décembre 2019",
+  "dates": "07 Décembre 2019 au Centre de Formation Professionnelle d'Excellence",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Partager",
   "followOur": "Suivre nos",
@@ -33,7 +33,7 @@
   },
   "footerRelBlock": [
     {
-      "title": "Apropos",
+      "title": "A propos",
       "links": [
         {
           "name": "GDG Douala",
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "title": "Voir le devfest passé",
+      "title": "Voir les devfest précédents",
       "links": [
         {
           "name": "Devfest Douala 2017",
@@ -71,18 +71,13 @@
       "title": "Ressources",
       "links": [
         {
-          "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "name": "Proposition de partenariat",
+          "url": "mailto:gdgdouala@gmail.com",
           "newTab": true
         },
         {
           "name": "Media Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "http://bit.ly/2pc2kdU",
           "newTab": true
         },
         {
@@ -109,17 +104,17 @@
     ]
   },
   "aboutBlock": {
-    "title": "Apropos",
+    "title": "A propos",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
+        "description": "Le DevFest (Festival de développeurs) est un événement communautaire de développeurs rassemblant chaque année étudiants, entrepreneurs, professionnels et entreprises autour de la technologie via des conférences, codelabs, débat, …",
         "label": "Devenir speaker",
         "link": "http://bit.ly/32lYCM8"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "Un aperçu de la session 2017",
-        "youtubeId": "TdpbgRgz6eE"
+        "description": "Une occasion unique de d’échanger autour du développement, du Web, Mobile, BigData, Cloud et des  objets connectés.",
+        "label": "Un aperçu de la session précédente",
+        "link": "https://devfest17.gdgdouala.com"
       }
     },
     "statisticsBlock": {
@@ -136,7 +131,7 @@
         "number": "15"
       },
       "tracks": {
-        "label": "Tracks",
+        "label": "Track",
         "number": "01"
       }
     }
@@ -258,15 +253,15 @@
     "blocks": [
       {
         "title": "Organisateur",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "Le <a href='https://meetup.com/gdg-douala' target='_blank'>GDG Douala</a> est heureux d'organiser la 6ème édition du GDG Devfest dans la ville de Douala",
         "callToAction": {
           "label": "Voir l'équipe",
-          "link": "/team"
+          "link": "https://www.meetup.com/fr-FR/GDG-Douala/members/?op=leaders"
         }
       },
       {
         "title": "C'est quoi un GDG?",
-        "description": "A Google Developer Group is a community of volunteers who create exciting projects and share experiences about Google technologies.",
+        "description": "GDG (Groupe des Développeurs Google) est un programme de Google destiné à aider les communautés actives de développeurs mobiles, web, cloud et IA sur leur cheminement vers des groupes performants et engagés via la formation en ligne, les matériels de meetup, les opportunités de réseautage, etc.",
         "callToAction": {
           "label": "Continuer la lecture",
           "link": "https://developers.google.com/groups/",
@@ -275,7 +270,7 @@
       },
       {
         "title": "C'est quoi le DevFest?",
-        "description": "DevFests are community-led developer events hosted by Google Developer Groups around the globe.",
+        "description": "Le DevFest est un événement de partages, conférences et ateliers regroupant étudiants, professionnels, entrepreneurs et entreprises autour de la même passion : le numérique.",
         "callToAction": {
           "label": "Continuer la lecture",
           "link": "https://devfest.withgoogle.com/",

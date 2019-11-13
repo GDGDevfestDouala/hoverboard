@@ -85,6 +85,15 @@
           </a>
 
           <p>{$ aboutBlock.callToAction.howItWas.description $}</p>
+          <a
+            href="{$ aboutBlock.callToAction.howItWas.link $}"
+            ga-on="click"
+            ga-event-category="video"
+            ga-event-action="watch"
+            ga-event-label="about block - {$ aboutBlock.callToAction.howItWas.label $}"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
           <paper-button
             class="animated icon-right"
             on-tap="_playVideo"
