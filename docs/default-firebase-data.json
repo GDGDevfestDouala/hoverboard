@@ -741,7 +741,7 @@
         "name" : "linkedin"
       } ],
       "order" : 0,
-      "title" : "Website manager"
+      "title" : "Co-organiser/project lead"
     }, {
       "name" : "Kamla Junior",
       "photo" : "images/people/organiser/junior_kamla.jpg",
@@ -760,7 +760,7 @@
         "name" : "linkedin"
       } ],
       "order" : 1,
-      "title" : "Social and media"
+      "title" : "Co-organiser/project lead"
     }, {
       "name" : "Samuel Iyabi",
       "photo" : "images/people/organiser/samuel_iyabi.jpg",
@@ -795,7 +795,7 @@
         "name" : "Blog"
       } ],
       "order" : 3,
-      "title" : "Speakers"
+      "title" : "social and media"
     }, {
       "name" : "René Bile",
       "photo" : "images/people/organiser/bile_rene.jpg",
@@ -810,7 +810,7 @@
         "name" : "linkedin"
       } ],
       "order" : 4,
-      "title" : "logistics"
+      "title" : "speakers"
     }, {
       "name" : "Fergany Biloa",
       "photo" : "/images/people/organiser/fergany_willy_biloa.jpg",
@@ -830,7 +830,7 @@
       } ],
       
       "order" : 5,
-      "title" : "socials and media"
+      "title" : "logistics"
     }, {
       "name" : "Ndziba Léa Nadège",
       "photo" : "images/people/organiser/fergany_willy_biloa.jpg",
@@ -842,7 +842,7 @@
       } ],
      
        "order" : 6,
-      "title" : "logistics"
+      "title" : "social and media"
     }, {
       "name" : "Youta",
       "photo" : "images/people/organiser/Obby_Sidane _YOUTA.jpg",
@@ -853,7 +853,7 @@
         "name" : "Facebook"
       } ],
         "order" : 7,
-      "title" : "consultant"
+      "title" : "logistics"
     }, {
       "name" : "Christian Sumbang",
       "photo" : "images/people/organiser/baurel_Sumbang.jpg",
@@ -864,7 +864,7 @@
         "name" : "Facebook"
       } ],
       "order" : 8,
-      "title" : "Design"
+      "title" : "consultant"
     }, {
       "name" : "Arthur Monney",
       "photo" : "images/people/organiser/arthur_monney.jpg",
@@ -909,7 +909,7 @@
         "name" : "Twitter"
       } ],
        "order" : 11,
-      "title" : "Website Manager"
+      "title" : "Design"
     }, {
       "name" : "Ngo Mandeng Raissa",
       "photo" : "images/people/organiser/raissa_mandeng.jpg",
@@ -928,8 +928,8 @@
         "name" : "Linkedin"
       } ],
     
-      "order" : 7,
-      "title" : "Social and media"
+      "order" : 12,
+      "title" : "website"
     } ],
     "title" : "Core Team"
   }, {
