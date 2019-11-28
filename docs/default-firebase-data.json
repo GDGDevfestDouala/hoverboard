@@ -726,14 +726,15 @@
   "team" : [ {
     "members" : [ {
       "name" : "Kwonmazou Konwo Lorentz",
-      "photo" : "images/people/organiser/lorentz_konwo.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/oleh_zasadnyy.jpg",
+      "photo" : "images/people/organizers/lorentz_konwo.jpg",
+      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/lorentz_konwo.jpg",
       "socials" : [ {
         "icon" : "facebook",
         "link" : "https://web.facebook.com/llamass5",
         "name" : "Facebook"
       }, {
         "icon" : "twitter",
+        "link" : "https://twitter.com/LorentzKonwo",
         "name" : "Twitter"
       }, {
         "icon" : "linkedin",
@@ -744,8 +745,8 @@
       "title" : "Co-organiser/project lead"
     }, {
       "name" : "Kamla Junior",
-      "photo" : "images/people/organiser/junior_kamla.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fsofiya_huts.jpg?alt=media&token=a911eafb-f709-4af7-b1cb-58a6604b70d1",
+      "photo" : "images/people/organizers/junior_kamla.jpg",
+      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/junior_kamla.jpg",
       "socials" : [ {
         "icon" : "facebook",
         "link" : "https://web.facebook.com/alkamjior",
@@ -763,24 +764,8 @@
       "title" : "Co-organiser/project lead"
     }, {
       "name" : "Samuel Iyabi",
-      "photo" : "images/people/organiser/samuel_iyabi.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvitaliy_zasadnyy.jpg?alt=media&token=930e05c8-ae43-4628-8d4c-3e8f5193cda3",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/zasadnyy",
-        "name" : "Linkedin"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/samvicked",
-        "name" : "Twitter"
-      },],
-    
-      "order" : 2,
-      "title" : "Social and media"
-    }, {
-      "name" : "Marie-Laure Ndoumbe Nkake",
-      "photo" : "images/people/organiser/marie_laure_nkake.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvitaliy_zasadnyy.jpg?alt=media&token=930e05c8-ae43-4628-8d4c-3e8f5193cda3",
+      "photo" : "images/people/organizers/samuel_iyabi.jpg",
+      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/samuel_iyabi.jpg",
       "socials" : [ {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/samvicked/",
@@ -789,17 +774,33 @@
         "icon" : "twitter",
         "link" : "https://twitter.com/samvicked",
         "name" : "Twitter"
+      }],
+    
+      "order" : 2,
+      "title" : "Social and media"
+    }, {
+      "name" : "Marie-Laure Ndoumbe Nkake",
+      "photo" : "images/people/organizers/marie_laure_nkake.jpg",
+      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/marie_laure_nkake.jpg",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "",
+        "name" : "Linkedin"
       }, {
-        "icon" : "website",
-        "link" : "http://v.zasadnyy.com/",
-        "name" : "Blog"
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "Twitter"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://web.facebook.com/nkake.marielaure",
+        "name" : "facebook"
       } ],
       "order" : 3,
       "title" : "social and media"
     }, {
       "name" : "René Bile",
-      "photo" : "images/people/organiser/bile_rene.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fmarta_maxymiak.jpg?alt=media&token=6532f039-7f86-4304-8558-dbfbb3ae8d68",
+      "photo" : "images/people/organizers/bile_rene.jpg",
+      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/bile_rene.jpg",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/bilerene237",
@@ -813,8 +814,8 @@
       "title" : "speakers"
     }, {
       "name" : "Fergany Biloa",
-      "photo" : "/images/people/organiser/fergany_willy_biloa.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/ostap_andrusiv.jpg",
+      "photo" : "/images/people/organizers/fergany_willy_biloa.jpg",
+      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/fergany_willy_biloa.jpg",
       "socials" : [ {
         "icon" : "facebook",
         "link" : "https://web.facebook.com/constantine.russe",
@@ -833,20 +834,20 @@
       "title" : "logistics"
     }, {
       "name" : "Ndziba Léa Nadège",
-      "photo" : "images/people/organiser/lea.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fdiana_pinchuk.jpg?alt=media&token=189d67d1-004f-4a3c-9e0c-13bc992bbaf7",
+      "photo" : "images/people/organizers/lea.jpg",
+      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/lea.jpg",
       "socials" : [ {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/diana.pinchuk.9",
+        "link" : "",
         "name" : "Facebook"
       } ],
      
        "order" : 6,
       "title" : "social and media"
     }, {
-      "name" : "Youta",
-      "photo" : "images/people/organiser/Obby_Sidane _YOUTA.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fdiana_pinchuk.jpg?alt=media&token=189d67d1-004f-4a3c-9e0c-13bc992bbaf7",
+      "name" : "Obby Youta",
+      "photo" : "images/people/organizers/obby_sidane_youta.jpg",
+      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/obby_sidane_youta.jpg",
       "socials" : [ {
         "icon" : "facebook",
         "link" : "https://www.facebook.com/diana.pinchuk.9",
@@ -856,8 +857,8 @@
       "title" : "logistics"
     }, {
       "name" : "Christian Sumbang",
-      "photo" : "images/people/organiser/baurel_Sumbang.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/vasylyna_mytsak.jpg",
+      "photo" : "images/people/organizers/baurel_sumbang.jpg",
+      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/baurel_sumbang.jpg",
       "socials" : [ {
         "icon" : "facebook",
         "link" : "https://www.facebook.com/vasylyna.mytsak",
@@ -867,23 +868,23 @@
       "title" : "consultant"
     }, {
       "name" : "Arthur Monney",
-      "photo" : "images/people/organiser/arthur_monney.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvolodya_karpliuk.jpg?alt=media&token=aa08d9c9-c42a-435f-8672-c3a004e3aa08",
+      "photo" : "images/people/organizers/arthur_monney.jpg",
+      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/arthur_monney.jpg",
       "socials" : [ {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/volodya.karpluk",
+        "link" : "",
         "name" : "Facebook"
       }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/keyv23",
+        "link" : "",
         "name" : "Twitter"
       } ],
       "order" : 9,
       "title" : "Design"
     }, {
       "name" : "Idriss Takeudo",
-      "photo" : "images/people/organiser/idriss_tekeudo.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvolodya_karpliuk.jpg?alt=media&token=aa08d9c9-c42a-435f-8672-c3a004e3aa08",
+      "photo" : "images/people/organizers/idriss_tekeudo.jpg",
+      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/idriss_tekeudo.jpg",
       "socials" : [ {
         "icon" : "linkedin",
         "link" : "http://twitter.com/tekyid237/",
@@ -897,8 +898,8 @@
       "title" : "Design"
     }, {
       "name" : "Mbagna Mu Mbangbissa",
-      "photo" : "images/people/organiser/mbagna_johan.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvolodya_karpliuk.jpg?alt=media&token=aa08d9c9-c42a-435f-8672-c3a004e3aa08",
+      "photo" : "images/people/organizers/mbagna_johan.jpg",
+      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/mbagna_johan.jpg",
       "socials" : [ {
         "icon" : "facebook",
         "link" : "http://facebook.com/johan",
@@ -912,8 +913,8 @@
       "title" : "Design"
     }, {
       "name" : "Ngo Mandeng Raissa",
-      "photo" : "images/people/organiser/raissa_mandeng.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fsofiya_huts.jpg?alt=media&token=a911eafb-f709-4af7-b1cb-58a6604b70d1",
+      "photo" : "images/people/organizers/raissa_mandeng.jpg",
+      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/raissa_mandeng.jpg",
       "socials" : [ {
         "icon" : "facebook",
         "link" : "https://web.facebook.com/raissa.nicaise.9",
