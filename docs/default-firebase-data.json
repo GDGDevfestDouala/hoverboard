@@ -724,7 +724,46 @@
     }
   },
   "team" : [ {
-    "members" : [ {
+    "members" : [{
+      "name" : "Christian Baurel Sumbang",
+      "photo" : "images/people/organizers/baurel_sumbang.jpg",
+      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/baurel_sumbang.jpg",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/christianbaurel",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/christianbaurel",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://linkedin.com/in/christian-baurel-sumbang-13276430",
+        "name" : "Linkedin"
+      } ],
+      "order" : 8,
+      "title" : "Supervision"
+    }, {
+      "name" : "Samuel Victor Iyabi",
+      "photo" : "images/people/organizers/samuel_iyabi.jpg",
+      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/samuel_iyabi.jpg",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/samvicked",
+        "name" : "Facebook"
+      },{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/samvicked/",
+        "name" : "Linkedin"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/samvicked",
+        "name" : "Twitter"
+      }],
+    
+      "order" : 2,
+      "title" : "Supervision / Communication"
+    }, {
       "name" : "Kwonmazou Konwo Lorentz",
       "photo" : "images/people/organizers/lorentz_konwo.jpg",
       "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/lorentz_konwo.jpg",
@@ -742,7 +781,7 @@
         "name" : "linkedin"
       } ],
       "order" : 0,
-      "title" : "Co-organiser/project lead"
+      "title" : "Project lead / Planing"
     }, {
       "name" : "Kamla Junior",
       "photo" : "images/people/organizers/junior_kamla.jpg",
@@ -761,57 +800,7 @@
         "name" : "linkedin"
       } ],
       "order" : 1,
-      "title" : "Co-organiser/project lead"
-    }, {
-      "name" : "Samuel Iyabi",
-      "photo" : "images/people/organizers/samuel_iyabi.jpg",
-      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/samuel_iyabi.jpg",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/samvicked/",
-        "name" : "Linkedin"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/samvicked",
-        "name" : "Twitter"
-      }],
-    
-      "order" : 2,
-      "title" : "Social and media"
-    }, {
-      "name" : "Marie-Laure Ndoumbe Nkake",
-      "photo" : "images/people/organizers/marie_laure_nkake.jpg",
-      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/marie_laure_nkake.jpg",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "",
-        "name" : "Linkedin"
-      }, {
-        "icon" : "twitter",
-        "link" : "",
-        "name" : "Twitter"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://web.facebook.com/nkake.marielaure",
-        "name" : "facebook"
-      } ],
-      "order" : 3,
-      "title" : "social and media"
-    }, {
-      "name" : "René Bile",
-      "photo" : "images/people/organizers/bile_rene.jpg",
-      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/bile_rene.jpg",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/bilerene237",
-        "name" : "Twitter"
-      },{
-        "icon" : "LinkedIn",
-        "link" : "https://www.linkedin.com/in/bilerene/",
-        "name" : "linkedin"
-      } ],
-      "order" : 4,
-      "title" : "speakers"
+      "title" : "Team lead / Site web"
     }, {
       "name" : "Fergany Biloa",
       "photo" : "/images/people/organizers/fergany_willy_biloa.jpg",
@@ -827,60 +816,107 @@
       }, {
         "icon" : "LinkedIn",
         "link" : "https://www.linkedin.com/in/fergany-biloa-61920799/",
-        "name" : "linkedin"
+        "name" : "Linkedin"
       } ],
       
       "order" : 5,
-      "title" : "logistics"
-    }, {
-      "name" : "Ndziba Léa Nadège",
-      "photo" : "images/people/organizers/lea.jpg",
-      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/lea.jpg",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "",
-        "name" : "Facebook"
-      } ],
-     
-       "order" : 6,
-      "title" : "social and media"
-    }, {
-      "name" : "Obby Youta",
-      "photo" : "images/people/organizers/obby_sidane_youta.jpg",
-      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/obby_sidane_youta.jpg",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/diana.pinchuk.9",
-        "name" : "Facebook"
-      } ],
-        "order" : 7,
-      "title" : "logistics"
-    }, {
-      "name" : "Christian Sumbang",
-      "photo" : "images/people/organizers/baurel_sumbang.jpg",
-      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/baurel_sumbang.jpg",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/vasylyna.mytsak",
-        "name" : "Facebook"
-      } ],
-      "order" : 8,
-      "title" : "consultant"
+      "title" : "Logistique"
     }, {
       "name" : "Arthur Monney",
       "photo" : "images/people/organizers/arthur_monney.jpg",
       "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/arthur_monney.jpg",
       "socials" : [ {
         "icon" : "facebook",
-        "link" : "",
+        "link" : "https://facebook.com/arthur.demckenzie",
         "name" : "Facebook"
       }, {
         "icon" : "twitter",
-        "link" : "",
+        "link" : "https://twitter.com/monneyarthur",
         "name" : "Twitter"
-      } ],
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://linkedin.com/in/arthurmonney",
+        "name" : "Twitter"
+      }],
       "order" : 9,
       "title" : "Design"
+    }, {
+      "name" : "René Bile",
+      "photo" : "images/people/organizers/bile_rene.jpg",
+      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/bile_rene.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/bilerene237",
+        "name" : "Twitter"
+      },{
+        "icon" : "LinkedIn",
+        "link" : "https://www.linkedin.com/in/bilerene/",
+        "name" : "Linkedin"
+      } ],
+      "order" : 4,
+      "title" : "Speakers"
+    }, {
+      "name" : "Ngo Mandeng Raissa",
+      "photo" : "images/people/organizers/raissa_mandeng.jpg",
+      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/raissa_mandeng.jpg",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://web.facebook.com/raissa.nicaise.9",
+        "name" : "Facebook"
+      },{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/NgoRainick",
+        "name" : "Twitter"
+      },{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/raissa-nicaise-ngo-mandeng-a18148b4/",
+        "name" : "Linkedin"
+      } ],
+    
+      "order" : 12,
+      "title" : "Site web"
+    }, {
+      "name" : "Obby Youta",
+      "photo" : "images/people/organizers/obby_sidane_youta.jpg",
+      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/obby_sidane_youta.jpg",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/dyos27",
+        "name" : "Facebook"
+      } ],
+        "order" : 7,
+      "title" : "Logistique"
+    }, {
+      "name" : "Marie-Laure Ndoumbe Nkake",
+      "photo" : "images/people/organizers/marie_laure_nkake.jpg",
+      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/marie_laure_nkake.jpg",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://linkedin.com/in/",
+        "name" : "Linkedin"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/",
+        "name" : "Twitter"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://web.facebook.com/nkake.marielaure",
+        "name" : "facebook"
+      } ],
+      "order" : 3,
+      "title" : "Communication"
+    }, {
+      "name" : "Ndziba Léa Nadège",
+      "photo" : "images/people/organizers/lea.jpg",
+      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/lea.jpg",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://facebook.com/",
+        "name" : "Facebook"
+      } ],
+     
+       "order" : 6,
+      "title" : "Communication"
     }, {
       "name" : "Idriss Takeudo",
       "photo" : "images/people/organizers/idriss_tekeudo.jpg",
@@ -911,61 +947,8 @@
       } ],
        "order" : 11,
       "title" : "Design"
-    }, {
-      "name" : "Ngo Mandeng Raissa",
-      "photo" : "images/people/organizers/raissa_mandeng.jpg",
-      "photoUrl" : "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/raissa_mandeng.jpg",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://web.facebook.com/raissa.nicaise.9",
-        "name" : "Facebook"
-      },{
-        "icon" : "twitter",
-        "link" : "https://twitter.com/NgoRainick",
-        "name" : "Twitter"
-      },{
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/raissa-nicaise-ngo-mandeng-a18148b4/",
-        "name" : "Linkedin"
-      } ],
-    
-      "order" : 12,
-      "title" : "website"
     } ],
-    "title" : "Core Team"
-  }, {
-    "members" : [ {
-      "name" : "Ihor Dvoretskyi",
-      "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/idvoretskyi",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/idvoretskyi",
-        "name" : "Twitter"
-      } ],
-      "order" : 0,
-      "title" : "Cloud stream"
-    }, {
-      "name" : "Dmytro Danylyk",
-      "photo" : "/images/people/dmytro_danylyk.jpg",
-      "photoUrl" : "",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/dmytrodanylyk",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://www.dmytrodanylyk.com/#/about",
-        "name" : "Website"
-      } ],
-      "order" : 1,
-      "title" : "Android Stream"
-    } ],
-    "title" : "Program Committee"
+    "title" : "Equipe d'organisation"
   } ],
   "tickets" : [ {
     "available" : true,

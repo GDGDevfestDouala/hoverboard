@@ -1,0 +1,298 @@
+{
+    "0": {
+        "photo": "images/people/organizers/baurel_sumbang.jpg",
+        "order": 0,
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/baurel_sumbang.jpg",
+        "name": "Christian Baurel Sumbang",
+        "socials": [
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/christianbaurel",
+                "name": "Facebook"
+            },
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/christianbaurel"
+            },
+            {
+                "name": "Linkedin",
+                "icon": "linkedin",
+                "link": "https://linkedin.com/in/christian-baurel-sumbang-13276430"
+            }
+        ],
+        "title": "Supervision"
+    },
+    "1": {
+        "title": "Supervision / Communication",
+        "photo": "images/people/organizers/samuel_iyabi.jpg",
+        "order": 1,
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/samuel_iyabi.jpg",
+        "name": "Samuel Victor Iyabi",
+        "socials": [
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/samvicked",
+                "name": "Facebook"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/samvicked/",
+                "name": "Linkedin"
+            },
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/samvicked",
+                "name": "Twitter"
+            }
+        ]
+    },
+    "2": {
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/lorentz_konwo.jpg",
+        "name": "Kwonmazou Konwo Lorentz",
+        "socials": [
+            {
+                "name": "Facebook",
+                "icon": "facebook",
+                "link": "https://web.facebook.com/llamass5"
+            },
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/LorentzKonwo",
+                "name": "Twitter"
+            },
+            {
+                "name": "linkedin",
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/konwolorentz/"
+            }
+        ],
+        "title": "Project lead / Planing",
+        "photo": "images/people/organizers/lorentz_konwo.jpg",
+        "order": 2
+    },
+    "3": {
+        "title": "Team lead / Site web",
+        "photo": "images/people/organizers/junior_kamla.jpg",
+        "order": 3,
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/junior_kamla.jpg",
+        "name": "Kamla Junior",
+        "socials": [
+            {
+                "icon": "facebook",
+                "link": "https://web.facebook.com/alkamjior",
+                "name": "Facebook"
+            },
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/alkamjior",
+                "name": "Twitter"
+            },
+            {
+                "name": "linkedin",
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/alkamjior/"
+            }
+        ]
+    },
+    "4": {
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/fergany_willy_biloa.jpg",
+        "name": "Fergany Biloa",
+        "socials": [
+            {
+                "name": "Facebook",
+                "icon": "facebook",
+                "link": "https://web.facebook.com/constantine.russe"
+            },
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/FERGANY237"
+            },
+            {
+                "name": "Linkedin",
+                "icon": "LinkedIn",
+                "link": "https://www.linkedin.com/in/fergany-biloa-61920799/"
+            }
+        ],
+        "title": "Logistique",
+        "photo": "/images/people/organizers/fergany_willy_biloa.jpg",
+        "order": 4
+    },
+    "5": {
+        "photo": "images/people/organizers/arthur_monney.jpg",
+        "order": 5,
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/arthur_monney.jpg",
+        "name": "Arthur Monney",
+        "socials": [
+            {
+                "icon": "facebook",
+                "link": "https://facebook.com/arthur.demckenzie",
+                "name": "Facebook"
+            },
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/monneyarthur",
+                "name": "Twitter"
+            },
+            {
+                "name": "Twitter",
+                "icon": "linkedin",
+                "link": "https://linkedin.com/in/arthurmonney"
+            }
+        ],
+        "title": "Design"
+    },
+    "6": {
+        "name": "René Bile",
+        "socials": [
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/bilerene237"
+            },
+            {
+                "name": "Linkedin",
+                "icon": "LinkedIn",
+                "link": "https://www.linkedin.com/in/bilerene/"
+            }
+        ],
+        "title": "Speakers",
+        "photo": "images/people/organizers/bile_rene.jpg",
+        "order": 6,
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/bile_rene.jpg"
+    },
+    "7": {
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/raissa_mandeng.jpg",
+        "name": "Ngo Mandeng Raissa",
+        "socials": [
+            {
+                "name": "Facebook",
+                "icon": "facebook",
+                "link": "https://web.facebook.com/raissa.nicaise.9"
+            },
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/NgoRainick"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/raissa-nicaise-ngo-mandeng-a18148b4/",
+                "name": "Linkedin"
+            }
+        ],
+        "title": "Site web",
+        "photo": "images/people/organizers/raissa_mandeng.jpg",
+        "order": 7
+    },
+    "8": {
+        "title": "Logistique",
+        "photo": "images/people/organizers/obby_sidane_youta.jpg",
+        "order": 8,
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/obby_sidane_youta.jpg",
+        "name": "Obby Youta",
+        "socials": [
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/dyos27",
+                "name": "Facebook"
+            }
+        ]
+    },
+    "9": {
+        "title": "Communication",
+        "photo": "images/people/organizers/marie_laure_nkake.jpg",
+        "order": 9,
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/marie_laure_nkake.jpg",
+        "name": "Marie-Laure Ndoumbe Nkake",
+        "socials": [
+            {
+                "name": "Linkedin",
+                "icon": "linkedin",
+                "link": "https://linkedin.com/in/"
+            },
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/",
+                "name": "Twitter"
+            },
+            {
+                "name": "facebook",
+                "icon": "facebook",
+                "link": "https://web.facebook.com/nkake.marielaure"
+            }
+        ]
+    },
+    "91": {
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/lea.jpg",
+        "name": "Ndziba Léa Nadège",
+        "socials": [
+            {
+                "name": "Facebook",
+                "icon": "facebook",
+                "link": "https://facebook.com/"
+            }
+        ],
+        "title": "Communication",
+        "photo": "images/people/organizers/lea.jpg",
+        "order": 91
+    },
+    "92": {
+        "order": 92,
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/idriss_tekeudo.jpg",
+        "name": "Idriss Takeudo",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "http://twitter.com/tekyid237/",
+                "name": "Linkedin"
+            },
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "http://twitter.com/tekyid237/"
+            }
+        ],
+        "title": "Design",
+        "photo": "images/people/organizers/idriss_tekeudo.jpg"
+    },
+    "93": {
+        "photo": "images/people/organizers/mbagna_johan.jpg",
+        "order": 93,
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/mbagna_johan.jpg",
+        "name": "Mbagna Mu Mbangbissa",
+        "socials": [
+            {
+                "name": "Facebook",
+                "icon": "facebook",
+                "link": "http://facebook.com/johan"
+            },
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/mbagnajohan"
+            }
+        ],
+        "title": "Design"
+    },
+    "94": {
+        "title": "Site web",
+        "photo": "images/people/organizers/carlish_sama.jpg",
+        "order": 94,
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/carlish_sama.jpg",
+        "name": "Carlish Sama",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/khanish_lrj",
+                "name": "Twitter"
+            },
+            {
+                "name": "Facebook",
+                "icon": "facebook",
+                "link": "https://web.facebook.com/khanish"
+            }
+        ]
+    }
+}
