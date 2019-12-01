@@ -47,7 +47,7 @@
             }
         ]
     },
-    "2": {
+    "3": {
         "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/lorentz_konwo.jpg",
         "name": "Kwonmazou Konwo Lorentz",
         "socials": [
@@ -69,12 +69,12 @@
         ],
         "title": "Project lead / Planing",
         "photo": "images/people/organizers/lorentz_konwo.jpg",
-        "order": 2
+        "order": 3
     },
-    "3": {
+    "2": {
         "title": "Team lead / Site web",
         "photo": "images/people/organizers/junior_kamla.jpg",
-        "order": 3,
+        "order": 2,
         "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/junior_kamla.jpg",
         "name": "Kamla Junior",
         "socials": [

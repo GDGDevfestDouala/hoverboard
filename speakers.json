@@ -1,107 +1,110 @@
 {
-    "arthur_monney": {
-        "company": "EPAM",
+    "Cole_Solomon": {
+        "company": "Relevant Systems and Diversity",
         "companyLogoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/logos/gdg-lviv.svg",
         "socials": [
             {
-                "icon": "facebook",
-                "link": "https://www.facebook.com/Arthur.DeMckenzie",
-                "name": "Facebook"
-            },
-            {
                 "icon": "twitter",
-                "link": "https://twitter.com/mckenziearts",
+                "link": "https://twitter.com/",
                 "name": "Twitter"
             },
             {
                 "icon": "linkedin",
-                "link": "https://ua.linkedin.com/in/arthurmonney",
+                "link": "https://linkedin.com/in/",
                 "name": "LinkedIn"
-            }
-        ],
-        "country": "Douala, Cameroun",
-        "bio": "Android developer, currently works at EPAM. Have experience in both server and mobile side development. All my free time I spend on the endless search of silver bullets, perfect architectures and holy wars.",
-        "shortBio": "Android developer, currently works at EPAM. Have experience in both server and mobile side develo...",
-        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/arthur_monney.jpg",
-        "name": "Arthur Monney",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "title": "Lead Software Developer",
-        "photo": "/images/people/arthur_monney.jpg",
-        "order": 2,
-        "featured": true
-    },
-    "fergany_willy_biloa": {
-        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/fergany_willy_biloa.jpg",
-        "name": "Fergany Willy Biloa",
-        "pronouns": "he/him",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "title": "Product Manager/Developer",
-        "photo": "/images/people/fergany_willy_biloa.jpg",
-        "order": 0,
-        "featured": true,
-        "company": "Sygic",
-        "companyLogoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/logos/gdg-lviv.svg",
-        "socials": [],
-        "country": "Yaoundé, Cameroun",
-        "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
-        "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa..."
-    },
-    "junior_kamla": {
-        "order": 3,
-        "featured": true,
-        "company": "Widespread",
-        "companyLogoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/logos/gdg-lviv.svg",
-        "socials": [
-            {
-                "icon": "linkedin",
-                "link": "https://linkedin.com/in/alkamjior",
-                "name": "Twitter"
-            },
-            {
-                "name": "Twitter",
-                "icon": "twitter",
-                "link": "https://twitter.com/alkamjior"
             }
         ],
         "country": "Lagos, Nigeria",
-        "bio": "Carmen is a front-end engineer and a #1 fan of dev communities. She loves Angular but has since recently developed feelings for Polymer too. She strongly believes that adding at least one ASCII smiley in your emails will make the world a better place and hopes to one day make a difference for the web with the code she writes. If she had super powers, she would smiley all the things.",
-        "shortBio": "Angular JS committer. Founder of Dutch Angular JS Community, co-organizer of NG-NL.",
-        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/junior_kamla.jpg",
-        "name": "Kamla Junior",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "title": "Front-end Engineer",
-        "photo": "/images/people/junior_kamla.jpg"
-    },
-    "lorentz_Konwo": {
-        "shortBio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior p...",
-        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/lorentz_konwo.jpg",
-        "name": "Kwonmazu Konwo Lorentz",
+        "bio": "Cole is a product designer whom has been designing for over 3 years with skills ranging from Graphic, Illustration, UI/UX, interaction and web design, he is also a mobile developer just like Bruce wayne at Night, he is a glutton for Flutter with Dart. Cole is a passionate community builder, building and contributing to communities such as kwarabuild, gdgilorin, prototypr.io and blacksWhoDesign worldwide.",
+        "shortBio": "Cole is a product designer whom has been designing for over 3 years with skills ranging from Graphic...",
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/speakers/Cole_Solomon.jpg",
+        "name": "Cole Solomon",
+        "companyLogo": "/images/logos/gdg-douala.png",
+        "title": "Mobile Developer and Designer",
+        "photo": "/images/people/speakers/Cole_Solomon.jpg",
+        "order": 2,
         "pronouns": "he/him",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "title": "Code Monkey",
-        "photo": "/images/people/lorentz_konwo.jpg",
+        "featured": true
+    },
+    "Shedrack_Akintayo": {
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/speakers/Shedrack_Akintayo.jpg",
+        "name": "Shedrack Akintayo",
+        "pronouns": "he/him",
+        "companyLogo": "/images/logos/gdg-douala.png",
+        "title": "Front-end Engineer",
+        "photo": "/images/people/speakers/Shedrack_Akintayo.jpg",
+        "order": 0,
+        "featured": true,
+        "company": "GDG Douala",
+        "companyLogoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/logos/gdg-douala.png",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://linkedin.com/in/",
+                "name": "Twitter"
+            },
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/"
+            }
+        ],
+        "country": "Lagos, Nigeria",
+        "bio": "Shedrack Is a Javascript Engineer and a strong lover of community building. He spends his free time playing soccer and also is a huge fan of Open Source Development.",
+        "shortBio": "Shedrack Is a Javascript Engineer and a strong lover of community building. He spends his free time..."
+    },
+    "Farouk_Sabiou": {
+        "order": 3,
+        "featured": true,
+        "company": "Dikalo",
+        "companyLogoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/logos/gdg-douala.png",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://linkedin.com/in/",
+                "name": "Twitter"
+            },
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/"
+            }
+        ],
+        "country": "Douala, Cameroon",
+        "bio": "Farouk Sabiou is Udacity Android Nanodegree graduate and currently working full time as Android engineer at Dikalo.",
+        "shortBio": "Farouk Sabiou is Udacity Android Nanodegree graduate and currently...",
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/speakers/Farouk_Sabiou.jpg",
+        "name": "Farouk Sabiou",
+        "companyLogo": "/images/logos/gdg-douala.png",
+        "title": "Android Engineer",
+        "pronouns": "he/him",
+        "photo": "/images/people/speakers/Farouk_Sabiou.jpg"
+    },
+    "Nasser_Abdou": {
+        "shortBio": "Software developer with experience working with Python, JavaScript, Odoo, Flask, and Google Cloud Platform. I have been...",
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/speakers/Nasser_Abdou.jpg",
+        "name": "Nasser Abdou",
+        "pronouns": "he/him",
+        "companyLogo": "/images/logos/gdg-douala.png",
+        "title": "Software Developer",
+        "photo": "/images/people/speakers/Nasser_Abdou.jpg",
         "order": 1,
         "featured": true,
-        "company": "Applause",
-        "companyLogoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/logos/gdg-lviv.svg",
+        "company": "GDG Douala",
+        "companyLogoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/logos/gdg-douala.png",
         "socials": [
             {
                 "name": "Twitter",
                 "icon": "twitter",
-                "link": "https://twitter.com/lorentzkonwo"
-            },
-            {
-                "name": "Facebook",
-                "icon": "facebook",
-                "link": "http://facebook.com/llamass"
+                "link": "https://twitter.com/"
             },
             {
                 "icon": "linkedin",
-                "link": "https://www.linkedin.com/in/konwolorentz",
+                "link": "https://www.linkedin.com/in/",
                 "name": "LinkedIn"
             }
         ],
-        "country": "Buéa, Cameroun",
-        "bio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)"
+        "country": "Douala, Cameroon",
+        "bio": "Software developer with experience working with Python, JavaScript, Odoo, Flask, and Google Cloud Platform. I have been developing under odoo since 2016 and have worked on several projects ranging from stock management to human resources and payroll, as well as POS and specific customer needs."
     }
 }

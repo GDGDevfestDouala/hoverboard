@@ -1,0 +1,210 @@
+{
+    "2019-12-07": {
+        "date": "2019-12-07",
+        "tracks": [
+            {
+                "title": "Salle unique"
+            }
+        ],
+        "dateReadable": "07 Décembre",
+        "timeslots": [
+            {
+                "endTime": "09:00",
+                "startTime": "08:00",
+                "sessions": [
+                    {
+                        "items": [
+                            101
+                        ]
+                    }
+                ]
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            136
+                        ]
+                    }
+                ],
+                "endTime": "10:15",
+                "startTime": "10:00"
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            139
+                        ]
+                    }
+                ],
+                "endTime": "11:00",
+                "startTime": "10:15"
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            103,
+                            112
+                        ]
+                    },
+                    {
+                        "items": [
+                            120
+                        ]
+                    },
+                    {
+                        "items": [
+                            109
+                        ],
+                        "extend": 3
+                    }
+                ],
+                "endTime": "11:40",
+                "startTime": "11:00"
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            129
+                        ]
+                    },
+                    {
+                        "items": [
+                            116
+                        ]
+                    }
+                ],
+                "endTime": "12:30",
+                "startTime": "11:50"
+            },
+            {
+                "endTime": "14:00",
+                "startTime": "12:30",
+                "sessions": [
+                    {
+                        "items": [
+                            133
+                        ]
+                    }
+                ]
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            101
+                        ]
+                    },
+                    {
+                        "items": [
+                            118
+                        ]
+                    },
+                    {
+                        "items": [
+                            107
+                        ],
+                        "extend": 2
+                    }
+                ],
+                "endTime": "14:40",
+                "startTime": "14:00"
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            140
+                        ]
+                    },
+                    {
+                        "items": [
+                            126
+                        ]
+                    }
+                ],
+                "endTime": "15:30",
+                "startTime": "14:50"
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            134
+                        ]
+                    }
+                ],
+                "endTime": "16:00",
+                "startTime": "15:30"
+            },
+            {
+                "endTime": "16:40",
+                "startTime": "16:00",
+                "sessions": [
+                    {
+                        "items": [
+                            105
+                        ]
+                    },
+                    {
+                        "items": [
+                            127
+                        ]
+                    },
+                    {
+                        "items": [
+                            119
+                        ],
+                        "extend": 3
+                    }
+                ]
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            112
+                        ]
+                    },
+                    {
+                        "items": [
+                            111
+                        ]
+                    }
+                ],
+                "endTime": "17:30",
+                "startTime": "16:50"
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            106
+                        ]
+                    },
+                    {
+                        "items": [
+                            125
+                        ]
+                    }
+                ],
+                "endTime": "18:20",
+                "startTime": "17:40"
+            },
+            {
+                "endTime": "22:30",
+                "startTime": "18:30",
+                "sessions": [
+                    {
+                        "items": [
+                            137
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
