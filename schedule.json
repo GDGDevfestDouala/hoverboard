@@ -14,7 +14,7 @@
                 "sessions": [
                     {
                         "items": [
-                            101
+                            116
                         ]
                     }
                 ]
@@ -23,160 +23,78 @@
                 "sessions": [
                     {
                         "items": [
-                            136
-                        ]
-                    }
-                ],
-                "endTime": "10:15",
-                "startTime": "10:00"
-            },
-            {
-                "sessions": [
-                    {
-                        "items": [
-                            139
-                        ]
-                    }
-                ],
-                "endTime": "11:00",
-                "startTime": "10:15"
-            },
-            {
-                "sessions": [
-                    {
-                        "items": [
-                            103,
-                            112
-                        ]
-                    },
-                    {
-                        "items": [
                             120
                         ]
-                    },
+                    }
+                ],
+                "endTime": "09:15",
+                "startTime": "09:00"
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            122
+                        ]
+                    }
+                ],
+                "endTime": "09:45",
+                "startTime": "09:15"
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            113
+                        ]
+                    }
+                ],
+                "endTime": "10:05",
+                "startTime": "09:45"
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            105
+                        ]
+                    }
+                ],
+                "endTime": "10:30",
+                "startTime": "10:10"
+            },
+            {
+                "sessions": [
                     {
                         "items": [
                             109
-                        ],
-                        "extend": 3
+                        ]
                     }
                 ],
-                "endTime": "11:40",
+                "endTime": "10:55",
+                "startTime": "10:35"
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            103
+                        ]
+                    }
+                ],
+                "endTime": "11:20",
                 "startTime": "11:00"
             },
             {
                 "sessions": [
                     {
                         "items": [
-                            129
-                        ]
-                    },
-                    {
-                        "items": [
-                            116
+                            123
                         ]
                     }
                 ],
-                "endTime": "12:30",
-                "startTime": "11:50"
-            },
-            {
-                "endTime": "14:00",
-                "startTime": "12:30",
-                "sessions": [
-                    {
-                        "items": [
-                            133
-                        ]
-                    }
-                ]
-            },
-            {
-                "sessions": [
-                    {
-                        "items": [
-                            101
-                        ]
-                    },
-                    {
-                        "items": [
-                            118
-                        ]
-                    },
-                    {
-                        "items": [
-                            107
-                        ],
-                        "extend": 2
-                    }
-                ],
-                "endTime": "14:40",
-                "startTime": "14:00"
-            },
-            {
-                "sessions": [
-                    {
-                        "items": [
-                            140
-                        ]
-                    },
-                    {
-                        "items": [
-                            126
-                        ]
-                    }
-                ],
-                "endTime": "15:30",
-                "startTime": "14:50"
-            },
-            {
-                "sessions": [
-                    {
-                        "items": [
-                            134
-                        ]
-                    }
-                ],
-                "endTime": "16:00",
-                "startTime": "15:30"
-            },
-            {
-                "endTime": "16:40",
-                "startTime": "16:00",
-                "sessions": [
-                    {
-                        "items": [
-                            105
-                        ]
-                    },
-                    {
-                        "items": [
-                            127
-                        ]
-                    },
-                    {
-                        "items": [
-                            119
-                        ],
-                        "extend": 3
-                    }
-                ]
-            },
-            {
-                "sessions": [
-                    {
-                        "items": [
-                            112
-                        ]
-                    },
-                    {
-                        "items": [
-                            111
-                        ]
-                    }
-                ],
-                "endTime": "17:30",
-                "startTime": "16:50"
+                "endTime": "11:45",
+                "startTime": "11:25"
             },
             {
                 "sessions": [
@@ -184,26 +102,131 @@
                         "items": [
                             106
                         ]
-                    },
-                    {
-                        "items": [
-                            125
-                        ]
                     }
                 ],
-                "endTime": "18:20",
-                "startTime": "17:40"
+                "endTime": "12:10",
+                "startTime": "11:50"
             },
             {
-                "endTime": "22:30",
-                "startTime": "18:30",
                 "sessions": [
                     {
                         "items": [
-                            137
+                            107
                         ]
                     }
-                ]
+                ],
+                "endTime": "12:35",
+                "startTime": "12:15"
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            104
+                        ]
+                    }
+                ],
+                "endTime": "13:00",
+                "startTime": "12:40"
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            117
+                        ]
+                    }
+                ],
+                "endTime": "14:00",
+                "startTime": "13:00"
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            101
+                        ]
+                    }
+                ],
+                "endTime": "14:20",
+                "startTime": "14:00"
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            108
+                        ]
+                    }
+                ],
+                "endTime": "14:45",
+                "startTime": "14:25"
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            112
+                        ]
+                    }
+                ],
+                "endTime": "15:10",
+                "startTime": "14:50"
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            111
+                        ]
+                    }
+                ],
+                "endTime": "15:35",
+                "startTime": "15:15"
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            102
+                        ]
+                    }
+                ],
+                "endTime": "16:00",
+                "startTime": "15:40"
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            115
+                        ]
+                    }
+                ],
+                "endTime": "16:25",
+                "startTime": "16:05"
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            114
+                        ]
+                    }
+                ],
+                "endTime": "16:55",
+                "startTime": "16:30"
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            110
+                        ]
+                    }
+                ],
+                "endTime": "17:20",
+                "startTime": "17:00"
             }
         ]
     }

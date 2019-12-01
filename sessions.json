@@ -1,20 +1,20 @@
 {
     "101": {
         "complexity": "Beginner",
-        "description": "<p>In this session we will cover the journey of how designers can move into coding and still stay comfortable designing, together with the pros and cons of this switch. I will share my personal experience as one who moved to and pro design and coding and stayed stable in both industries.</p>",
+        "description": "In this session we will cover the journey of how designers can move into coding and still stay comfortable designing, together with the pros and cons of this switch. I will share my personal experience as one who moved to and pro design and coding and stayed stable in both industries.",
         "language": "English",
         "presentation": "https://speakerdeck.com/",
         "speakers": [
-            "Supriya_Aggarwal"
+            "Cole_Solomon"
         ],
         "tags": [
-            "Design"
+            "Design", "Coding"
         ],
-        "title": "<h5>Ambitious' Designer turn Flutter developer: The best of both worlds.</h5>"
+        "title": "Ambitious' Designer turn Flutter developer: The best of both worlds."
     },
     "102": {
         "complexity": "Beginner",
-        "description": "<p>Accelerated Mobile Pages (AMP) is a web component framework that is used to create user first websites. It was developed by google to make websites accessible on all mobile devices and various internet connection strengths.<br />In this talk, I’ll talk about what AMP is, features of AMPs and why we should start embracing the tech, Anatomy of an AMP and other sub topics. AMP is the future of the Web.</p>",
+        "description": "Accelerated Mobile Pages (AMP) is a web component framework that is used to create user first websites. It was developed by google to make websites accessible on all mobile devices and various internet connection strengths.<br />In this talk, I’ll talk about what AMP is, features of AMPs and why we should start embracing the tech, Anatomy of an AMP and other sub topics. AMP is the future of the Web.",
         "language": "English",
         "speakers": [
             "Shedrack_Akintayo"
@@ -22,11 +22,24 @@
         "tags": [
             "Web"
         ],
-        "title": "<h5>AMP as a Web Framework for the Next Billion Users.</h5>"
+        "title": "AMP as a Web Framework for the Next Billion Users."
+    },
+    "123": {
+        "complexity": "Débutant",
+        "description": "Modularisation d'une application Android",
+        "language": "Français",
+        "presentation": "https://speakerdeck.com",
+        "speakers": [
+            "Farouk_Sabiou"
+        ],
+        "tags": [
+            "Android"
+        ],
+        "title": "Modularisation d'une application Android"
     },
     "103": {
         "complexity": "Intermediate",
-        "description": "<p>Learn how to build high-quality apps easier with the help of Android Jetpack. We'll see all the best practices that will free you from writing boilerplate code, and simplify complex tasks, so you can focus on the code you care about.</p>",
+        "description": "Learn how to build high-quality apps easier with the help of Android Jetpack. We'll see all the best practices that will free you from writing boilerplate code, and simplify complex tasks, so you can focus on the code you care about.",
         "language": "English",
         "presentation": "https://speakerdeck.com",
         "speakers": [
@@ -35,11 +48,11 @@
         "tags": [
             "Android"
         ],
-        "title": "<h5>Build modern apps with android jetpack</h5>"
+        "title": "Build modern apps with android jetpack"
     },
     "104": {
         "complexity": "Beginner",
-        "description": "<p>Aujourd'hui on parle de Python partout surtout en ce qui concerne l'IA alors qu'il existe depuis 1991. Cette session permettra de présenter les différents projets qu'un développeur Python peut réaliser tout en montrant que ce n'est pas le langage par excellence, les débutants ne devraient pas tomber dans le piège du buzz.</p>",
+        "description": "Aujourd'hui on parle de Python partout surtout en ce qui concerne l'IA alors qu'il existe depuis 1991. Cette session permettra de présenter les différents projets qu'un développeur Python peut réaliser tout en montrant que ce n'est pas le langage par excellence, les débutants ne devraient pas tomber dans le piège du buzz.",
         "language": "French",
         "presentation": "https://speakerdeck.com/",
         "speakers": [
@@ -48,26 +61,26 @@
         "tags": [
             "Python"
         ],
-        "title": "<h5>Conversational AI Chatbot using Deep Learning</h5>",
+        "title": "Ce que vous ne pouvez pas faire avec Python",
         "videoId": ""
     },
     "105": {
         "complexity": "Biginners",
-        "description": "<p>La relation designer développeur est une relation très importante pour la bonne portée d'un projet informatique. Très souvent le designer est marginalisé car on a l'impression qu'il a un petit impacte mais il est tout aussi important que celui qui code les interfaces. Aujourd'hui grâce au travail de notre belle communauté, il est désormais possible pour un designer et un développeur de parler dans un langage ou les deux se sentent confortables peu importe la faisabilité des interfaces</p><p>Nous allons voir quelques outils et pratiques qui permettent aux créatifs d'exporter leur créativité tel qu'il est vers les développeurs et aussi aux développeurs de donner un feedback évolutif et constructif sur la tâche. Le tout dans le but d'accentuer les fruits de leur communication </p>",
+        "description": "La relation designer développeur est une relation très importante pour la bonne portée d'un projet informatique. Très souvent le designer est marginalisé car on a l'impression qu'il a un petit impacte mais il est tout aussi important que celui qui code les interfaces. Aujourd'hui grâce au travail de notre belle communauté, il est désormais possible pour un designer et un développeur de parler dans un langage ou les deux se sentent confortables peu importe la faisabilité des interfaces Nous allons voir quelques outils et pratiques qui permettent aux créatifs d'exporter leur créativité tel qu'il est vers les développeurs et aussi aux développeurs de donner un feedback évolutif et constructif sur la tâche. Le tout dans le but d'accentuer les fruits de leur communication ",
         "language": "French",
         "presentation": "https://speakerdeck.com/",
         "speakers": [
-            "Nasser_ABDOU"
+            "Dylan_Tientcheu"
         ],
         "tags": [
             "Communication"
         ],
-        "title": "<h5>Communication Designer-Développeur : Bonnes pratiques et outils</h5>",
+        "title": "Communication Designer-Développeur : Bonnes pratiques et outils",
         "videoId": ""
     },
     "106": {
         "complexity": "Beginner",
-        "description": "<p>How Bi-directional LSTM, Machine Reading Comprehension, Transfer Learning, Sequence to Sequence Model with multi-headed attention mechanism, Generative Adversarial Network, Self Learning based Sentiment Analysis and Deep Reinforcement Learning can help in Dialog Management for Conversational AI chatbot</p>",
+        "description": "How Bi-directional LSTM, Machine Reading Comprehension, Transfer Learning, Sequence to Sequence Model with multi-headed attention mechanism, Generative Adversarial Network, Self Learning based Sentiment Analysis and Deep Reinforcement Learning can help in Dialog Management for Conversational AI chatbot",
         "language": "English",
         "presentation": "https://speakerdeck.com/",
         "speakers": [
@@ -76,12 +89,12 @@
         "tags": [
             "AI"
         ],
-        "title": "<h5>Conversational AI Chatbot using Deep Learning</h5>",
+        "title": "Conversational AI Chatbot using Deep Learning",
         "videoId": ""
     },
     "107": {
         "complexity": "Beginner",
-        "description": "<p>How to create rapidly a serverless app with free online tools</p>",
+        "description": "How to create rapidly a serverless app with free online tools",
         "language": "English",
         "speakers": [
             "Fabrice_Yopa"
@@ -93,11 +106,11 @@
     },
     "108": {
         "complexity": "Intermediate",
-        "description": "<p>Electronics bases and arduino</p>",
+        "description": "Electronics bases and arduino",
         "language": "English",
         "presentation": "https://speakerdeck.com/",
         "speakers": [
-            "Méryl_BITEE"
+            "Meryl_Bitee"
         ],
         "tags": [
             "Electronics"
@@ -107,11 +120,11 @@
     },
     "109": {
         "complexity": "Beginner",
-        "description": "<p>Présentation du framework Flutter de google, ses avantages,ses apports dans le domaine du mobile et tout(ou presque) ce qu'il faut savoir sur le framework</p>",
+        "description": "Présentation du framework Flutter de google, ses avantages,ses apports dans le domaine du mobile et tout(ou presque) ce qu'il faut savoir sur le framework",
         "language": "French",
         "presentation": "https://speakerdeck.com/gdglviv/",
         "speakers": [
-            "Boris_Gautier_TCHOUKOUAHA"
+            "Boris_Gautier_Tchoukouaha"
         ],
         "tags": [
             "Flutters"
@@ -120,7 +133,7 @@
     },
     "110": {
         "complexity": "Intermediate",
-        "description": "<p>A bug bounty program is a deal offered by many websites, organizations and software developers by which individuals can receive recognition and compensation for reporting bugs, especially those pertaining to exploits and vulnerabilities. These programs allow the developers to discover and resolve bugs before the general public is aware of them, preventing incidents of widespread abuse. Bug bounty programs have been implemented by a large number of organizations, including Mozilla,Facebook,Yahoo!,Google,Reddit,Square,and Microsoft.</p>",
+        "description": "A bug bounty program is a deal offered by many websites, organizations and software developers by which individuals can receive recognition and compensation for reporting bugs, especially those pertaining to exploits and vulnerabilities. These programs allow the developers to discover and resolve bugs before the general public is aware of them, preventing incidents of widespread abuse. Bug bounty programs have been implemented by a large number of organizations, including Mozilla,Facebook,Yahoo!,Google,Reddit,Square,and Microsoft.",
         "language": "English",
         "presentation": "https://speakerdeck.com/",
         "speakers": [
@@ -133,11 +146,11 @@
     },
     "111": {
         "complexity": "Intermediate",
-        "description": "<p>Les API jouent un rôle important dans le fait de ne pas réinventer la roue. La compréhension de l'utilité des API est une compétence essentielle pour les développeurs modernes. Dans ce Talk, nous couvrirons : Les avantages de l'utilisation d'une API Qu'est-ce qu'une API est réellement Cas d'utilisation pratique sur l'utilisation des API (Cas Google Cloud Platform)</p>",
+        "description": "Les API jouent un rôle important dans le fait de ne pas réinventer la roue. La compréhension de l'utilité des API est une compétence essentielle pour les développeurs modernes. Dans ce Talk, nous couvrirons : Les avantages de l'utilisation d'une API Qu'est-ce qu'une API est réellement Cas d'utilisation pratique sur l'utilisation des API (Cas Google Cloud Platform)",
         "language": "French",
         "presentation": "https://speakerdeck.com/",
         "speakers": [
-            "Dipanda_Aser"
+            "Dipanda_Asser"
         ],
         "tags": [
             "API"
@@ -146,7 +159,7 @@
     },
     "112": {
         "complexity": "Intermediate",
-        "description": "<p>LL'importance du UX pour améliorer les performances d'un site web ou d'une application autant d'un point de vue SEO, expérience et revenus</p>",
+        "description": "LL'importance du UX pour améliorer les performances d'un site web ou d'une application autant d'un point de vue SEO, expérience et revenus",
         "language": "French",
         "speakers": [
             "Nadine_Tchepannou"
@@ -158,11 +171,11 @@
     },
     "113": {
         "complexity": "Intermediate",
-        "description": "<p>What is IU/UX design and its importance?</p>",
+        "description": "What is IU/UX design and its importance?",
         "language": "English",
         "presentation": "https://speakerdeck.com/",
         "speakers": [
-            "JOHAN_MBAGNA"
+            "Johan_Mbagna"
         ],
         "tags": [
             "UI/UX"
@@ -171,8 +184,8 @@
     },
     "114": {
         "complexity": "Intermediate",
-        "description": "<p>he first part of the session would focus on the limitations of REST and how they are overcome by GraphQL. The second part would cover why it is not advisable to blindly jump into GraphQL. </p>",
-        "Talk": "<h5>Why vs. Why Not GraphQL</h5>",
+        "description": "he first part of the session would focus on the limitations of REST and how they are overcome by GraphQL. The second part would cover why it is not advisable to blindly jump into GraphQL. ",
+        "Talk": "Why vs. Why Not GraphQL",
         "language": "English",
         "speakers": [
             "Supriya_Aggarwal"
@@ -188,7 +201,7 @@
         "language": "English",
         "presentation": "https://speakerdeck.com/gdglviv/",
         "speakers": [
-            "William_K._DEKOU"
+            "William_K_Dekou"
         ],
         "tags": [
             "DevOps"
@@ -197,260 +210,46 @@
         "videoId": ""
     },
     "116": {
-        "tags": [
-            "Web"
-        ],
-        "speakers": [
-            "aleksander_piotrowski"
-        ],
-        "title": "On Polymer and smileys... or Polysmileys",
-        "language": "English",
-        "description": "One of my favourite things about the web are ASCII smileys. They're sweet, fun and simply make the web a better place. How could anyone not like them ¯(ツ)/¯?\n\nThis talk is an overdose of smileys, because they're the perfect excuse to get started with Polymer. Polymer is a library built on top of the Web Components standards that helps developers create reusable components for the modern web. And since I know that everybody has been wondering how one could take over the world by creating a suite of Polymer animated emoticon components, we're going to do exactly that.",
-        "presentation": "http://carmenpopoviciu.github.io/on-polymer-and-smileys/",
-        "complexity": "Beginner"
-    },
-    "117": {
-        "presentation": "https://speakerdeck.com/gdglviv/sergii-khomenko-building-data-pipelines-from-simple-to-more-advanced-hands-on-experience",
-        "complexity": "Beginner",
-        "tags": [
-            "Cloud"
-        ],
-        "speakers": [
-            "carmen_popovicu"
-        ],
-        "title": "Building data pipelines: from simple to more advanced - hands-on experience",
-        "language": "English",
-        "description": "Data is becoming one of the main decision-makers in an organisation. The more data we have the more challenges we face every day. Every decision we make will have long-term implications. In the talk we will go through different approaches to the data pipelines: from a simple in-house built, with comparison to open source solutions based on Apache stack(Apache Kafka, Apache Samza, Spark) and finally hosted auto-scaling solutions based Amazon(S3, Kinesis, Lambda, EMR) or Google(Pub/Sub, Dataflow, BigQuery). The talk covers the main aspects of data collecting processes altogether with further implications for data processing, highlighting appropriate solutions and architectures for the particular use-cases. "
-    },
-    "118": {
-        "tags": [
-            "Android"
-        ],
-        "speakers": [
-            "sergii_khomenko"
-        ],
-        "title": "Kotlin + Android",
-        "language": "English",
-        "description": "TBD",
-        "presentation": "https://speakerdeck.com/gdglviv/dmytro-danylyk-kotlin-plus-android",
-        "complexity": "Intermediate"
-    },
-    "119": {
-        "tags": [
-            "Android"
-        ],
-        "speakers": [
-            "dmytro_danylyk"
-        ],
-        "title": "Hands-on with UI testing for Android developers",
-        "language": "English",
-        "description": "Writing Android apps is usually fun because you are actually building something. But what about writing tests? Boring stuff. Errr, UI tests? I am a developer!\n\nIn this talk we will take a look at options for UI tests on Android, why you should write them and how they help you with your app development workflow. No more untested apps!",
-        "presentation": "https://speakerdeck.com/gdglviv/jana-moudra-hands-on-with-ui-testing-for-android-developers",
-        "complexity": "Beginner"
-    },
-    "120": {
-        "tags": [
-            "Web"
-        ],
-        "speakers": [
-            "jana_moudra"
-        ],
-        "title": "Progressive web apps - prepare your web for 2017",
-        "language": "English",
-        "description": "\"Remember back when AJAX completely changed what was possible in the desktop web? Progressive web apps are that same fundamental shift for the mobile web.\" said Rahul Row-Chowdhury (Google’s product lead for chrome and the web platform) on stage at Google I/O 2016. - Progressive web apps use service workers, app shell, push notifications, RAIL and other capabilities to deliver an app-like user experience.",
-        "presentation": "https://speakerdeck.com/gdglviv/jakub-skvara-progressive-web-apps-prepare-your-web-for-2017",
-        "complexity": "Beginner"
-    },
-    "121": {
-        "title": "Offline-first progressive web apps",
-        "language": "English",
-        "description": "Using service workers and other modern progressive web apps capabilities we can update our web applications to be offline-fires. In this session we'll show how to easily convert your applications be usable without the internet connection.",
-        "complexity": "Intermediate",
-        "tags": [
-            "Web"
-        ],
-        "speakers": [
-            "jana_moudra"
-        ]
-    },
-    "122": {
-        "title": "Firebase + Kotlin + RxJava + MVP: Practical Tips",
-        "videoId": "b9NgjqM6dvk",
-        "language": "English",
-        "description": "I would like to talk about architecture of our Settle Up app. It's all based on new Firebase announced on I/O with the help of modern frameworks like Rx, Kotlin and MVP.",
-        "presentation": "https://speakerdeck.com/gdglviv/david-vavra-firebase-plus-kotlin-plus-rxjava-plus-mvp-practical-tips",
-        "complexity": "Intermediate",
-        "tags": [
-            "Android"
-        ],
-        "speakers": [
-            "jakub_škvára"
-        ]
-    },
-    "123": {
-        "complexity": "Beginner",
-        "tags": [
-            "Web"
-        ],
-        "speakers": [
-            "david_vávra"
-        ],
-        "title": "TBD",
-        "language": "English",
-        "description": "TBD"
-    },
-    "124": {
-        "complexity": "Intermediate",
-        "tags": [
-            "Android"
-        ],
-        "speakers": [
-            "valentyn_shybanov"
-        ],
-        "title": "Continues Integration in Android",
-        "videoId": "MmGDQkgknfY",
-        "language": "English",
-        "description": "You are tired of building every patch for your QA ? Still deploying to google play manually ? You still think that build server is something that you don't need ? Than I will try to show you how you can make life of your team easier with CI."
-    },
-    "125": {
-        "title": "Kubernetes in a real world",
-        "language": "English",
-        "description": "TBD",
-        "complexity": "Intermediate",
-        "tags": [
-            "Cloud"
-        ],
-        "speakers": [
-            "sergiy_mokienko"
-        ]
-    },
-    "126": {
-        "complexity": "Intermediate",
-        "tags": [
-            "Android"
-        ],
-        "speakers": [
-            "ihor_dvoretskyi"
-        ],
-        "title": "Android hacking for dummies: ‘if’ operator demolytion",
-        "videoId": "We04nyIIsA0",
-        "language": "English",
-        "description": "Imagine the world where you can get any application, look into its code (even if it is not open sourced) and modify any conditional operator in any way you like. Welcome, you are in the Android applications world! Let's discover how anyone can decompile your app and, for example, hack your 'if' operators. For the beginning, we will play a role of a script kiddie and try to hack some simple app. After this, we will pretend security-conscious Android developers and try to think how we can protect ourselves.",
-        "presentation": "https://speakerdeck.com/gdglviv/michael-pustovit-android-hacking-for-dummies-if-operator-demolytion"
-    },
-    "127": {
-        "tags": [
-            "Android"
-        ],
-        "speakers": [
-            "michael_pustovit"
-        ],
-        "title": "ExoPlayer: Media playback without pain (almost...)",
-        "language": "Ukrainian",
-        "description": "If you have any experience with Android Media Player, you definitely know how hard it is to prepare it and do not lose your mind. ExoPlayer - is an alternative, which can help you deal with media with much less pain. So lets discuss if it really a \"silver bullet\" or yet another State Machine hell.",
-        "presentation": "https://speakerdeck.com/gdglviv/anton-minashkin-exoplayer-media-playback-without-pain-almost-dot-dot-dot",
-        "complexity": "Intermediate"
-    },
-    "128": {
-        "tags": [
-            "Android"
-        ],
-        "speakers": [
-            "anton__minashkin"
-        ],
-        "title": "Android Wear 2.0: Great Changes Upcoming this Fall",
-        "language": "English",
-        "description": "Google announced Android Wear 2.0 become available this Fall. This major update brings some revolutionary changes in platform, that should change our approaches in developing wearable apps, including freedom of BLE tethering, system support for complications and activity recognition by GoogleFit, developed mainly for Android Wear 2.0. We will talk deeper about these new features and look at some ways to implement them in the code.",
-        "complexity": "Beginner"
-    },
-    "129": {
-        "complexity": "Intermediate",
-        "tags": [
-            "Android"
-        ],
-        "speakers": [
-            "constantine_mars"
-        ],
-        "title": "Accessibility on Android",
-        "language": "English",
-        "description": "Accessibility is a very important step to make sure that your app reaches everyone in an easy and fun way to use. \nGood accessibility support means much more than just making sure the app supports screen readers, different fonts sizes and good contrast ratios. It is a learning process, and one in which we ourselves still have much to learn and explore. ",
-        "presentation": "https://speakerdeck.com/gdglviv/resul-caner-yildirim-accessibility-on-android"
-    },
-    "130": {
-        "complexity": "Intermediate",
-        "tags": [
-            "Android"
-        ],
-        "speakers": [
-            "constantine_mars"
-        ],
-        "title": "Designing an Android Wear Application",
-        "language": "English",
-        "description": "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!"
-    },
-    "131": {
-        "title": "Deal with it: Android DataBinding explained",
-        "language": "English",
-        "description": "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
-        "presentation": "https://speakerdeck.com/gdglviv/roman-herasymenko-deal-with-it-android-databinding-explained",
-        "complexity": "Intermediate",
-        "tags": [
-            "Android"
-        ],
-        "speakers": [
-            "resul_caner__yildirim"
-        ]
-    },
-    "132": {
-        "title": "Registration & morning Coffee",
+        "title": "Accueil des participants et speakers",
         "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
-        "description": "Get your badge, coffee, enjoy talking with tech edicts around",
+        "description": "",
         "icon": "registration"
     },
-    "133": {
-        "title": "Lunch",
+    "117": {
+        "title": "Pause-déjeuner",
         "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
-        "description": "Foooooooood!",
+        "description": "Comme ventre vide n'a point d'oreilles[...]!",
         "icon": "lunch"
     },
-    "134": {
+    "118": {
         "description": "Coffeeeeeee!",
         "icon": "coffee-break",
         "title": "Coffee break",
         "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7"
     },
-    "135": {
+    "119": {
         "title": "Morning coffee",
         "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fmorning.jpg?alt=media&token=d0da3d64-fc63-48c6-9d41-1460451dca64",
         "description": "Coffeeeeeee!",
         "icon": "coffee-break"
     },
-    "136": {
+    "120": {
         "icon": "opening",
-        "title": "GDG DevFest Ukraine 2016 Opening",
+        "title": "Ouverture du GDG Devfest Douala 2019",
         "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
         "language": "English",
-        "description": "Official start of the conference. Greetings from the organizers, sponsors and partners."
+        "description": "Mot de bienvenue de la part de l'équipe GDG Douala, et présentation."
     },
-    "137": {
+    "121": {
         "icon": "party",
         "title": "Afterparty & Networking",
         "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
         "description": "Afterparty is a great time to have some fun and meet new people"
     },
-    "138": {
-        "title": "Conference closing and contest winners announcements",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
-        "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session."
-    },
-    "139": {
+    "122": {
         "title": "Keynote",
         "language": "English",
-        "description": ""
-    },
-    "140": {
-        "title": "TBD",
-        "language": "English",
-        "description": "TBD"
+        "description": "",
+        "speakers": ["Rebecca_Enonchong"]
     }
 }

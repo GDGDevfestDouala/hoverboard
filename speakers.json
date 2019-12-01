@@ -1,7 +1,7 @@
 {
     "Cole_Solomon": {
         "company": "Relevant Systems and Diversity",
-        "companyLogoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/logos/gdg-lviv.svg",
+        "companyLogoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/logos/gdg-douala.png",
         "socials": [
             {
                 "icon": "twitter",
@@ -14,7 +14,7 @@
                 "name": "LinkedIn"
             }
         ],
-        "country": "Lagos, Nigeria",
+        "country": "Nigeria",
         "bio": "Cole is a product designer whom has been designing for over 3 years with skills ranging from Graphic, Illustration, UI/UX, interaction and web design, he is also a mobile developer just like Bruce wayne at Night, he is a glutton for Flutter with Dart. Cole is a passionate community builder, building and contributing to communities such as kwarabuild, gdgilorin, prototypr.io and blacksWhoDesign worldwide.",
         "shortBio": "Cole is a product designer whom has been designing for over 3 years with skills ranging from Graphic...",
         "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/speakers/Cole_Solomon.jpg",
@@ -49,7 +49,7 @@
                 "link": "https://twitter.com/"
             }
         ],
-        "country": "Lagos, Nigeria",
+        "country": "Nigeria",
         "bio": "Shedrack Is a Javascript Engineer and a strong lover of community building. He spends his free time playing soccer and also is a huge fan of Open Source Development.",
         "shortBio": "Shedrack Is a Javascript Engineer and a strong lover of community building. He spends his free time..."
     },
@@ -106,5 +106,329 @@
         ],
         "country": "Douala, Cameroon",
         "bio": "Software developer with experience working with Python, JavaScript, Odoo, Flask, and Google Cloud Platform. I have been developing under odoo since 2016 and have worked on several projects ranging from stock management to human resources and payroll, as well as POS and specific customer needs."
+    },
+    "Dylan_Tientcheu": {
+        "company": "Afrologix",
+        "companyLogoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/logos/gdg-douala.png",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/",
+                "name": "Twitter"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://linkedin.com/in/",
+                "name": "LinkedIn"
+            }
+        ],
+        "country": "Douala, Cameroon",
+        "bio": "Dylan is a practical and detail-oriented software engineer with a solid design and technical development background. He has a high proficiency in combining technical aspects and business insights. Aside from his day job, he is currently a very appreciated Mobile Web Specialist mentor at Udacity.",
+        "shortBio": "Dylan is a practical and detail-oriented software engineer with a solid design and technical development...",
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/speakers/Dylan_Tientcheu.jpg",
+        "name": "Dylan Tientcheu",
+        "companyLogo": "/images/logos/gdg-douala.png",
+        "title": "Software Engineer",
+        "photo": "/images/people/speakers/Dylan_Tientcheu.jpg",
+        "order": 2,
+        "pronouns": "he/him",
+        "featured": true
+    },
+    "Joseph_Origho": {
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/speakers/Joseph_Origho.jpg",
+        "name": "Joseph Origho",
+        "pronouns": "he/him",
+        "companyLogo": "/images/logos/gdg-douala.png",
+        "title": "Lead GDG Benin",
+        "photo": "/images/people/speakers/Joseph_Origho.jpg",
+        "order": 0,
+        "featured": true,
+        "company": "Founder, Ceroxx",
+        "companyLogoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/logos/gdg-douala.png",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://linkedin.com/in/",
+                "name": "Twitter"
+            },
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/"
+            }
+        ],
+        "country": "Benin",
+        "bio": "Experienced Community Manager at Google Develoepers Group Benin with a demonstrated history of working in the computer software industry. Skilled in Web Applications and Mobile Applications and Artificial intelligence integration onto various platforms.",
+        "shortBio": "Experienced Community Manager at Google Develoepers Group Benin with a demonstrated history of..."
+    },
+    "William_K_Dekou": {
+        "order": 3,
+        "featured": true,
+        "company": "Total Cameroon",
+        "companyLogoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/logos/gdg-douala.png",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://linkedin.com/in/",
+                "name": "Twitter"
+            },
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/"
+            }
+        ],
+        "country": "Douala, Cameroon",
+        "bio": "William K. DEKOU is currently acting as a Project Manager at Total but he has a long interessed in how companies should best take advantage of Cloud Infrastructure. He is also profoundly interested in helping companies land faster and safely to new count-edge technologies.",
+        "shortBio": "William K. DEKOU is currently acting as a Project Manager at Total but he has a long interessed in how companies...",
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/speakers/William_K_Dekou.jpg",
+        "name": "William K. Dekou",
+        "companyLogo": "/images/logos/gdg-douala.png",
+        "title": "Project Manager intern",
+        "pronouns": "he/him",
+        "photo": "/images/people/speakers/William_K_Dekou.jpg"
+    },
+    "Fabrice_Yopa": {
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/speakers/Fabrice_Yopa.jpg",
+        "name": "Fabrice Yopa",
+        "pronouns": "he/him",
+        "companyLogo": "/images/logos/gdg-douala.png",
+        "title": "Back-end Developer",
+        "photo": "/images/people/speakers/Fabrice_Yopa.jpg",
+        "order": 1,
+        "featured": true,
+        "company": "GDG Douala",
+        "companyLogoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/logos/gdg-douala.png",
+        "socials": [
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/",
+                "name": "LinkedIn"
+            }
+        ],
+        "country": "Douala, Cameroon",
+        "bio": "I'm Backend developer, Laravel Cameroon Organizer and Design lover.",
+        "shortBio": "I'm Backend developer, Laravel Cameroon Organizer and Design lover."
+    },
+    "Meryl_Bitee": {
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/speakers/Meryl_Bitee.jpg",
+        "name": "Meryl Bitee",
+        "pronouns": "she/her",
+        "companyLogo": "/images/logos/gdg-douala.png",
+        "title": "Electronics Teacher",
+        "photo": "/images/people/speakers/Meryl_Bitee.jpg",
+        "order": 1,
+        "featured": true,
+        "company": "InnovTech",
+        "companyLogoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/logos/gdg-douala.png",
+        "socials": [
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/",
+                "name": "LinkedIn"
+            }
+        ],
+        "country": "Douala, Cameroon",
+        "bio": "Electrical/electronics teacher !Diversified in STEM!WENTECH member's! Co-fondatrice INNOVTECH, Student at the doctoral school of Douala! In Research Master, GIA laboratory.",
+        "shortBio": "Electrical/electronics teacher !Diversified in STEM!WENTECH member's! Co-fondatrice INNOVTECH, Student at..."
+    },
+    "Boris_Gautier_Tchoukouaha": {
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/speakers/Boris_Gautier_Tchoukouaha.jpg",
+        "name": "Boris Gautier Tchoukouaha",
+        "pronouns": "he/him",
+        "companyLogo": "/images/logos/gdg-douala.png",
+        "title": "Software Engineer",
+        "photo": "/images/people/speakers/Boris_Gautier_Tchoukouaha.jpg",
+        "order": 1,
+        "featured": true,
+        "company": "Sogefi Cameroon",
+        "companyLogoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/logos/gdg-douala.png",
+        "socials": [
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/",
+                "name": "LinkedIn"
+            }
+        ],
+        "country": "Douala, Cameroon",
+        "bio": "j'ai débuté avec le framework Flutter en Décembre 2018 après avoir tenté une expérience avec Ionic. Au début ça n'a pas été évident mais des mois de travail et quelques projets réalisés aujourd'hui j'ai une expérience non négligeable dans ce framework",
+        "shortBio": "j'ai débuté avec le framework Flutter en Décembre 2018 après avoir tenté une expérience avec Ionic. Au..."
+    },
+    "Kevin_Monkam": {
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/speakers/Kevin_Monkam.jpg",
+        "name": "Kevin Monkam",
+        "pronouns": "he/him",
+        "companyLogo": "/images/logos/gdg-douala.png",
+        "title": "CEO & Founder",
+        "photo": "/images/people/speakers/Kevin_Monkam.jpg",
+        "order": 1,
+        "featured": true,
+        "company": "AliSafe Cyber",
+        "companyLogoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/logos/gdg-douala.png",
+        "socials": [
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/",
+                "name": "LinkedIn"
+            }
+        ],
+        "country": "Douala, Cameroon",
+        "bio": "Responsable Sécurité des Systèmes d'Informations Université de Dschang.",
+        "shortBio": "Responsable Sécurité des Systèmes d'Informations Université de Dschang."
+    },
+    "Dipanda_Asser": {
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/speakers/Dipanda_Asser.jpg",
+        "name": "Dipanda Asser",
+        "pronouns": "he/him",
+        "companyLogo": "/images/logos/gdg-douala.png",
+        "title": "Software Developer",
+        "photo": "/images/people/speakers/Dipanda_Asser.jpg",
+        "order": 1,
+        "featured": true,
+        "company": "Freelance",
+        "companyLogoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/logos/gdg-douala.png",
+        "socials": [
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/",
+                "name": "LinkedIn"
+            }
+        ],
+        "country": "Douala, Cameroon",
+        "bio": "Je m'appelle Dipanda Aser et je suis Développeur Freelance et Étudiant. Passionnées depuis mon enfance par l'informatique, je me suis lance dans la programmation au lycée bien qu’étant dans une série littéraire. Après mon Bacc tout en continuant mon auto-formation (début d’une grande amitié avec Google) en programmation, j’ai opté pour une formation en Gestion des systèmes d’information pendant une durée de deux ans. Cette formation m’a permises d’avoir des notions qui était un peu abstraites pour moi notamment concernant les domaines de : Base de données, Réseaux informatiques. Durant cette période de deux ans j’ai acquis une très bonne expérience professionnelle en travaillant sur de nombreux projets tant personnels que dans le cadre d’une mission en entreprise ou en freelance. J’ai acquis également des compétences connaissances que je n’aurais jamais acquise en travaillant dans ma chambre d’étudiant ou à l’université.",
+        "shortBio": "Je m'appelle Dipanda Aser et je suis Développeur Freelance et Étudiant. Passionnées depuis mon enfance par..."
+    },
+    "Nadine_Tchepannou": {
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/speakers/Nadine_Tchepannou.png",
+        "name": "Nadine Tchepannou",
+        "pronouns": "she/her",
+        "companyLogo": "/images/logos/gdg-douala.png",
+        "title": "Une pro du marketing qui aime coder",
+        "photo": "/images/people/speakers/Nadine_Tchepannou.png",
+        "order": 1,
+        "featured": true,
+        "company": "Zenu Academie",
+        "companyLogoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/logos/gdg-douala.png",
+        "socials": [
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/",
+                "name": "LinkedIn"
+            }
+        ],
+        "country": "Yaoundé, Cameroun",
+        "bio": "Nadine gère une agence de stratégie Marketing (saudad.com) et est la voix derrière la Zenu Académie (zenuacadémie.com).",
+        "shortBio": "Nadine gère une agence de stratégie Marketing (saudad.com) et est la voix derrière la Zenu Académie..."
+    },
+    "Johan_Mbagna": {
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/speakers/Johan_Mbagna.jpg",
+        "name": "Johan Mbagna",
+        "pronouns": "he/him",
+        "companyLogo": "/images/logos/gdg-douala.png",
+        "title": "UI/UX Designer",
+        "photo": "/images/people/speakers/Johan_Mbagna.jpg",
+        "order": 1,
+        "featured": true,
+        "company": "Dark Code",
+        "companyLogoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/logos/gdg-douala.png",
+        "socials": [
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/",
+                "name": "LinkedIn"
+            }
+        ],
+        "country": "Douala, Cameroon",
+        "bio": "Co-Founder, Developer Web Front-End, Designer and UI/UX Designer at Dark Code since 2016.",
+        "shortBio": "Co-Founder, Developer Web Front-End, Designer and UI/UX Designer at Dark Code since 2016."
+    },
+    "Supriya_Aggarwal": {
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/speakers/Supriya_Aggarwal.jpg",
+        "name": "Supriya Agarwal",
+        "pronouns": "she/her",
+        "companyLogo": "/images/logos/gdg-douala.png",
+        "title": "Back-end Developer",
+        "photo": "/images/people/speakers/Supriya_Aggarwal.jpg",
+        "order": 1,
+        "featured": true,
+        "company": "Software Engineer",
+        "companyLogoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/logos/gdg-douala.png",
+        "socials": [
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/",
+                "name": "LinkedIn"
+            }
+        ],
+        "country": "India",
+        "bio": "Supriya is an enthusiastic software engineer, who spends most of her time programming in Java and C++. She has the most fun solving problems that require deep understanding of technology. She loves springtime, travelling, pigs, penguins and pineapple on pizza. Also, she can sleep literally anywhere.",
+        "shortBio": "Supriya is an enthusiastic software engineer, who spends most of her time programming in Java and C++. She..."
+    },
+    "Rebecca_Enonchong": {
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/speakers/Rebecca_Enonchong.jpg",
+        "name": "Rebecca Enonchong",
+        "pronouns": "she/her",
+        "companyLogo": "/images/logos/gdg-douala.png",
+        "title": "Founder & CEO",
+        "photo": "/images/people/speakers/Rebecca_Enonchong.jpg",
+        "order": 1,
+        "featured": true,
+        "company": "AppsTech",
+        "companyLogoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/logos/gdg-douala.png",
+        "socials": [
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/",
+                "name": "LinkedIn"
+            }
+        ],
+        "country": "Douala, Cameroon",
+        "bio": "Tech entrepreneur. Founder CEO @AppsTech @iospaces #Team237 #100mostinfluentialafricans",
+        "shortBio": "Tech entrepreneur. Founder CEO AppsTech Iospaces..."
     }
 }
