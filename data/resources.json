@@ -108,7 +108,7 @@
     "callToAction": {
       "featuredSessions": {
         "description": "Le DevFest (Festival de développeurs) est un événement communautaire de développeurs rassemblant chaque année étudiants, entrepreneurs, professionnels et entreprises autour de la technologie via des conférences, codelabs, débat, …",
-        "label": "Devenir speaker",
+        "label": "Voir tous les speakers",
         "link": "http://bit.ly/32lYCM8"
       },
       "howItWas": {
@@ -180,7 +180,7 @@
   "speakersBlock": {
     "title": "Speakers",
     "callToAction": {
-      "label": "Devenir speaker",
+      "label": "Voir tous les speakers",
       "link": "http://bit.ly/32lYCM8"
     }
   },
