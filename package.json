@@ -64,19 +64,5 @@
     "node": "10"
   },
   "private": true,
-  "pre-commit": "lint",
-  "main": "firebase-messaging-sw.js",
-  "directories": {
-    "doc": "docs"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/GDGDevfestDouala/hoverboard.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/GDGDevfestDouala/hoverboard/issues"
-  },
-  "homepage": "https://github.com/GDGDevfestDouala/hoverboard#readme"
+  "pre-commit": "lint"
 }
