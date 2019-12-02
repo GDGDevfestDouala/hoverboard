@@ -197,6 +197,16 @@
                 "icon": "facebook",
                 "link": "https://www.facebook.com/dyos27",
                 "name": "Facebook"
+            },
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/dos_plague"
+            },
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/youta-obby-sidane",
+                "name": "LinkedIn"
             }
         ]
     },
@@ -232,6 +242,16 @@
                 "name": "Facebook",
                 "icon": "facebook",
                 "link": "https://facebook.com/"
+            },
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/",
+                "name": "Twitter"
+            },
+            {
+                "name": "facebook",
+                "icon": "facebook",
+                "link": "https://web.facebook.com/"
             }
         ],
         "title": "Communication",
@@ -245,7 +265,7 @@
         "socials": [
             {
                 "icon": "linkedin",
-                "link": "http://twitter.com/tekyid237/",
+                "link": "http://linkedin.com/in/tekyid237/",
                 "name": "Linkedin"
             },
             {
@@ -266,7 +286,12 @@
             {
                 "name": "Facebook",
                 "icon": "facebook",
-                "link": "http://facebook.com/johan"
+                "link": "http://facebook.com/johangaby.mbagna"
+            },
+            {
+                "name": "LinkedIn",
+                "icon": "linkedin",
+                "link": "http://linkedin.com/in/johangaby-mbagna"
             },
             {
                 "name": "Twitter",
