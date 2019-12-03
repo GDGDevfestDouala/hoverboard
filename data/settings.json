@@ -110,7 +110,7 @@
     "name": "Centre de formation professionnelle d'excellence",
     "city": "Douala",
     "short": "Douala, Cameroun",
-    "address": "P14, Ndogbati, Face ancien Chococam",
+    "address": "Collé à la Pharmacie Cosmos à Ndogbat",
     "pointer": {
       "latitude": 4.045507,
       "longitude": 9.7314302,
@@ -120,7 +120,7 @@
       "latitude": 4.045,
       "longitude": 9.73
     },
-    "description": "Le CFPE Douala est situé du coté de Ndokoti, avant le carrefour 'Bp Cité' derrière le collège Bénédicte."
+    "description": "Le CFPE (Centre de Formation Professionnelle d'Excellence) de Douala est situé à 350m du carrefour BP Cité en allant vers Ndokoti"
   },
   "mediaQueries": {
     "xs": {
