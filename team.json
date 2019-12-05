@@ -261,11 +261,16 @@
     "92": {
         "order": 92,
         "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/idriss_tekeudo.jpg",
-        "name": "Idriss Takeudo",
+        "name": "Idriss Tekeudo",
         "socials": [
             {
+                "icon": "facebook",
+                "link": "http://facebook.com/idriss.tekeudo",
+                "name": "Facebook"
+            },
+            {
                 "icon": "linkedin",
-                "link": "http://linkedin.com/in/tekyid237/",
+                "link": "http://linkedin.com/in/idriss-tekeudo",
                 "name": "Linkedin"
             },
             {
