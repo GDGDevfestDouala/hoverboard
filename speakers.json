@@ -164,29 +164,34 @@
     "William_K_Dekou": {
         "order": 3,
         "featured": true,
-        "company": "Total Cameroon",
+        "company": "Walkity Ltd.",
         "companyLogoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/logos/gdg-douala.png",
         "socials": [
             {
+                "icon": "facebook",
+                "link": "https://facebook.com/alkamjior",
+                "name": "Facebook"
+            },
+            {
                 "icon": "linkedin",
-                "link": "https://linkedin.com/in/",
+                "link": "https://linkedin.com/in/alkamjior",
                 "name": "Twitter"
             },
             {
                 "name": "Twitter",
                 "icon": "twitter",
-                "link": "https://twitter.com/"
+                "link": "https://twitter.com/alkamjior"
             }
         ],
         "country": "Douala, Cameroon",
-        "bio": "William K. DEKOU is currently acting as a Project Manager at Total but he has a long interessed in how companies should best take advantage of Cloud Infrastructure. He is also profoundly interested in helping companies land faster and safely to new count-edge technologies.",
-        "shortBio": "William K. DEKOU is currently acting as a Project Manager at Total but he has a long interessed in how companies...",
-        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/speakers/William_K_Dekou.jpg",
-        "name": "William K. Dekou",
+        "bio": "Junior is a web fullstack and Android developer based here in Douala and working remotely. He is the entrepreneur who created 'walkiwi' he has been developing the web since 2018 and Android since 2015 and also one of our co-organizers here at GDG Douala.",
+        "shortBio": "Junior is a web fullstack and Android developer working remotely and the entrepreneur who created 'walkiwi' he has...",
+        "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/organizers/junior_kamla.jpg",
+        "name": "Kamla Junior",
         "companyLogo": "/images/logos/gdg-douala.png",
-        "title": "Project Manager intern",
+        "title": "Senior full stack developer",
         "pronouns": "he/him",
-        "photo": "/images/people/speakers/William_K_Dekou.jpg"
+        "photo": "/images/people/organizers/junior_kamla.jpg"
     },
     "Fabrice_Yopa": {
         "photoUrl": "https://storage.googleapis.com/devfestdla18.appspot.com/images/people/speakers/Fabrice_Yopa.jpg",
