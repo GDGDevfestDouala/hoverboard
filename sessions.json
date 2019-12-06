@@ -197,16 +197,16 @@
     },
     "115": {
         "complexity": "Beginner",
-        "description": "DevOps: Achieve 100% automation on a containers-centric business, It is a talk about the combination of concepts and tools to set up your IT Infrastructure and code deployment in an automated way. Ending with a demo on GCP.\n\n From start to finish, We are first going to explore the concept of IaaC for maintaining the state of your IT infrastructure, When all set, we are going to add up the CD/CI for application.\n\n Notes and comments I had experienced doing such automation on Digital Ocean, Kubernetes but this talk will switch over on Kubernetes with GCP based tools",
-        "language": "English",
+        "description": "Make your business or services available to every Android user by integrating it with the Google Assistant",
+        "language": "French",
         "presentation": "https://speakerdeck.com/gdglviv/",
         "speakers": [
             "William_K_Dekou"
         ],
         "tags": [
-            "DevOps"
+            "Google Assistant"
         ],
-        "title": "DevOps: Achieve 100% automation on a containers-centric business",
+        "title": "Make your service available to every Android user by integrating it with the Google Assistant",
         "videoId": ""
     },
     "116": {
